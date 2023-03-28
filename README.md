@@ -1,4 +1,4 @@
-# The STEM Project :books: :battery: :seedling: :test_tube: :dna: :microscope: 
+# The STEM Project :books: :battery: :seedling: :: :: :microscope: 
 ![The STEAM Teaching, Engagement & Mentorship (STEM) Project](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Logo.png)
 
 # **Table of Contents** 
@@ -59,7 +59,7 @@ With the support from the Public Service Grant Commission social innovation fund
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Gonzalez_SanchezDahl_Matteo.jpeg)
 
 #### B.S. Biomedical Engineering, Expected May 2023, 
-#### Department of Biomedical Engineering, The George Washington University
+#### Department of Biomedical Engineering, [The George Washington University](https://www.gwu.edu/)
 
 #### NMR-based Metabolomics Researcher, Cheng Lab, 
 #### Department of Molecular Pathology, Massachusetts General Hospital
@@ -80,10 +80,11 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Antonevich_Sarah.png)
 
 #### B.S. Biomedical Engineering, Expected May 2023, 
-#### Department of Biomedical Engineering, The George Washington University
+#### Department of Biomedical Engineering, [The George Washington University](https://www.gwu.edu/)
+
 
 #### [CARDIAC OPTOGENETICS & OPTICAL IMAGING RESEARCH](https://entcheva.seas.gwu.edu), ENTCHEVA LAB
-#### Department of Biomedical Engineering, The George Washington University
+#### Department of Biomedical Engineering, [The George Washington University](https://www.gwu.edu/)
 
 #### Biography 
 
@@ -92,20 +93,18 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 ### Annette Jimenez
 
 #### B.S. Biomedical Engineering, Expected May 2024, 
-#### Department of Biomedical Engineering, The George Washington University
+#### Department of Biomedical Engineering, [The George Washington University](https://www.gwu.edu/)
 
-#### President,
-#### [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
+#### President, [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
 
 #### Biography 
 
 ### Roger Castaneda
 
-#### B.S. Biomedical Engineering, Expected May 2024, 
-#### Department of Biomedical Engineering, The George Washington University
+#### B.S. Mechanical Engineering, Expected May 2024, 
+#### Department of Mechanical & Aerospace Engineering, [The George Washington University](https://www.gwu.edu/)
 
-#### Vice President,
-#### [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
+#### Vice President, [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
 
 #### Biography 
 
