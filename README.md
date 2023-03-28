@@ -23,12 +23,12 @@
 <br>
 # **About Us** 
 
-<br>
+
 ## :bulb: **Mission** 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
-<br>
+
 ## :pencil: **History** 
-<br>
+
 ### **Data-driven Approaches for Developing STEM-focused Learning Environments in Hispanic Communities** ###
 
 According to the 2022-2025 Society of Hispanic Professional Engineers (SHPE) Strategic Plan, there is a 10% disparity in representation for Hispanics in STEM in the US. Hispanics comprise 17% of the workforce but only 6% of scientists and engineers. The 2021 DC School Report Card reports that DCPS has a 73.63% four-year graduation rate, and the graduation rate by student group is lowest for Hispanic/Latinx students of any race (69.77%). The graduate rate in DCPS is emblematic of systemic issues in the education system, which has worsened due to the COVID-19 pandemic. For instance, the percentage of Hispanic/Latinx high school graduates of any race who enrolled in postsecondary degree-granting institutions within six months has decreased from 51.71% for the class of 2019 to 43.63% for the class of 2022. These statistics highlight the urgent societal need for K-12 STEM academic support and mentorship.
