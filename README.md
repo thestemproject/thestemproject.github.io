@@ -23,6 +23,7 @@
 
 ### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png)
+<img src="./23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png", alt="23_TheSTEMProject_Partners_LAYC_Logo.png">
 
 # **About Us**
 
