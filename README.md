@@ -142,10 +142,10 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 
 # **Contact Us** #
 
-**Email :e-mail: ** boardofdirectors@thestemproject-dc.org
-<br>
-**Website :calling: ** https://www.thestemproject.github.io
-<br>
+📧**Email** boardofdirectors@thestemproject-dc.org
+
+📲**Website** https://www.thestemproject.github.io
+
 **LinkedIn:**
-<br>
+
 (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project Website
