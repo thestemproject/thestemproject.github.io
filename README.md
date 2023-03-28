@@ -8,6 +8,7 @@
   * [Flyers](#flyers)
 * [About Us](#aboutus)
   * [Mission](#mission)
+  * [Our Impact](#impact)
   * [History](#history)
   * [Founders](#founders)
   * [Board of Directors](#boardofdirectors)
@@ -20,9 +21,13 @@
 
 ## 📋 **Flyers** 
 
-<img >
-
 ## 📍 **Location**
+
+1419 Columbia Road, NW
+Washington, DC 20009
+(202) 319-2225
+
+## **Contact Information**
 
 ### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 ![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png?raw=true "LAYC")
@@ -31,6 +36,8 @@
 
 ## 💡 **Mission** 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
+
+## 📚 **Our Impact**
 
 ## 📝 **History** 
 
@@ -44,28 +51,28 @@ The difference in life expectancy at birth between Ward 3 (87 years) and Ward 1 
 
 ### **The STEAM Teaching, Engagement & Mentorship (STEM) Project** ###
 
-With the support from the Public Service Grant Commission social innovation fund from the GW Nashman Center for Civic Engagement & Public Service, The STEM Project will collaborate with local SHPE chapters to deliver Noche de Ciencias programming activities that will increase Hispanic/Latinx students’ beliefs in their ability to succeed in STEM and their STEM identity. A network of professionals from the SHPE DC Professional chapter will assist in delivering bilingual information sessions for parents about the avenues for their children to pursue degrees in STEM. In addition to introducing students to the support system available through SHPE, the program will include a LEGO Innovation session with a  DEILAB curriculum that teaches students about interdisciplinary collaboration and rapid prototyping. By partnering with independent researchers at the National Institute of Health, The STEM Project will empower students to explore the marvel of microscopes by preparing slides and imaging microorganisms from local National Parks. The STEM Project provides a model that HSIs and service organizations can use to implement similar programs in local communities.
+With the support from the Public Service Grant Commission social innovation fund from the GW Nashman Center for Civic Engagement & Public Service, The STEM Project will collaborate with local SHPE chapters to deliver Noche de Ciencias (NdC) programming activities that will increase Hispanic/Latinx students’ beliefs in their ability to succeed in STEM and their STEM identity[4]. A network of professionals from the SHPE DC Professional chapter will assist in delivering bilingual information sessions for parents, Equipando Padres (EP) about the avenues for their children to pursue degrees in STEM [5]. In addition to introducing students to the support system available through SHPE, the program will include a LEGO Innovation session with a  DEILAB curriculum that teaches students about interdisciplinary collaboration and rapid prototyping. By partnering with independent researchers at the National Institute of Health, The STEM Project will empower students to explore the marvel of microscopes by preparing slides and imaging microorganisms from local National Parks. The STEM Project provides a model that HSIs and service organizations can use to implement similar programs in local communities.
 
 ### 📖 **References** ###
 
-#### 1. [2022-2025 Society of Hispanic Professional Engineers (SHPE) Strategic Plan](https://shpe.org/wp-content/uploads/2022/07/2022-25-Strategic-Plan_Final_Web.pdf)
-#### 2. [2021 Washington, DC School Report Card](https://osse.dc.gov/dcschoolreportcard)
-#### 3. [2018 Health Equity Report for the District of Columbia 2018 -- DC Department of Health](https://dchealth.dc.gov/publication/health-equity-report-district-columbia-2018)
-#### 4.
-#### 5.
+#### 1️⃣ [2022-2025 Society of Hispanic Professional Engineers (SHPE) Strategic Plan](https://shpe.org/wp-content/uploads/2022/07/2022-25-Strategic-Plan_Final_Web.pdf)
+#### 2️⃣ [2021 Washington, DC School Report Card](https://osse.dc.gov/dcschoolreportcard)
+#### 3️⃣ [2018 Health Equity Report for the District of Columbia 2018 -- DC Department of Health](https://dchealth.dc.gov/publication/health-equity-report-district-columbia-2018)
+#### 4️⃣ [Society of Hispanic Professional Engineers -- Noche de Ciencias Program](https://shpe.org/engage/programs/noche-de-ciencias/)
+#### 5️⃣ [Society of Hispanic Professional Engineers -- Equipando Padres Program](https://shpe.org/engage/programs/equipando-padres/)
 
 ## **Founders** ###
 
-### [Matteo Sanchez-Dahl Gonzalez]
-![Matteo Sanchez-Dahl Gonzalez](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Gonzalez_SanchezDahl_Matteo.jpeg)
+### [Matteo Sanchez-Dahl Gonzalez](https://www.linkedin.com/in/ms-d/)
+![Matteo Sanchez-Dahl Gonzalez](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectFoundersMatteoSanchezDahlGonzalez.png)
 
-#### B.S. Biomedical Engineering, Expected May 2023, 
-#### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
-#### NMR-based Metabolomics Researcher, [Cheng Lab](https://twitter.com/chenglabnmr), 
-#### Department of Molecular Pathology, [Massachusetts General Hospital](https://www.martinos.org/),
-#### Undergraduate Representative, [National Board of Directors](https://shpe.org/about-shpe/governance/nbod/)
-#### [Society of Hispanic Professional Engineers](https://shpe.org/)
-<br>
+#### 🎓 B.S. Biomedical Engineering, Expected May 2023, 
+#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
+#### 🔬 NMR-based Metabolomics Researcher, [Cheng Lab](https://twitter.com/chenglabnmr), 
+#### 🏫 Department of Molecular Pathology, [Massachusetts General Hospital](https://www.martinos.org/);
+#### 🎓 Undergraduate Representative, [National Board of Directors](https://shpe.org/about-shpe/governance/nbod/)
+#### 📢 [Society of Hispanic Professional Engineers](https://shpe.org/)
+
 #### Biography 
 I, Matteo Sanchez-Dahl Gonzalez, am first-generation Mexican-American. I will change the narrative about people from minority backgrounds succeeding in science by exemplifying excellence in every endeavor and empowering the Hispanic community. I plan to complete a 5-year MS/BS program in Biomedical Engineering before applying to Medical Scientist Training Programs to pursue an MD-Ph.D. 
  
@@ -77,15 +84,13 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 
 <br>
 
-### [Sarah Antonevich]
-![]()
+### [Sarah Antonevich](https://www.linkedin.com/in/santonevich/)
+![Sarah Antonevich](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectFoundersSarahAntonevich.png)
 
-#### B.S. Biomedical Engineering, Expected May 2023, 
-#### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
-
-
-#### Cardiac Optogenetics & Optical Imaging Reasearcher, [Entcheva Lab](https://entcheva.seas.gwu.edu)
-#### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
+#### 🎓 B.S. Biomedical Engineering, Expected May 2023, 
+#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
+#### 🔬 Cardiac Optogenetics & Optical Imaging Reasearcher, [Entcheva Lab](https://entcheva.seas.gwu.edu)
+#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
 
 #### Biography 
 
@@ -99,30 +104,30 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 
 # **Partners** #
 ## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
-![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png)
+![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png)
 
 ## [George Washington University (GWU)](https://www.gwu.edu/)
-![George Washington University (GWU)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU.png)
+![George Washington University (GWU)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWU.png)
 
 ## [Honey W. Nashman Center for Civic Engagement and Public Service](https://serve.gwu.edu/)
-![Honey W. Nashman Center for Civic Engagement and Public Service](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU_NashmanCenter_Logo.png)
+![Honey W. Nashman Center for Civic Engagement and Public Service](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUNashmanCenterLogo.png)
 
 ## [Public Service Grant Commission](https://serve.gwu.edu/public-service-grant-commission)
 
 ## [Design, Engineering, Innovation (DEI)LAB](https://www.deilab.com/)
-![Design, Engineering, Innovation (DEI)LAB](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_DEILAB_Logo.png)
+![Design, Engineering, Innovation (DEI)LAB](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersDEILABLogo.png)
 
 ## [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
-![SHPE GWU Student Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_SHPE_GWU_StudentChapter_Logo.jpg)
+![SHPE GWU Student Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEGWUStudentChapterLogo.png)
 
 ## [SHPE Washington, DC Professional Chapter](https://www.shpe-dc.org/index.html)
-![SHPE Washington, DC Professional Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_SHPE_DC_ProfessionalChapter_Logo.jpg)
+![SHPE Washington, DC Professional Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEDCProfessionalChapterLogo.png)
 
 ## [GWU Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/)
-![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU_BME.png)
+![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEngineering.png)
 
 ## [GW Engineering](https://www.seas.gwu.edu/)
-![GW Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU_Engineering.png)
+![GW Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEngineering.png)
 
 # **Contact Us** #
 
