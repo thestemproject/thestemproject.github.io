@@ -76,7 +76,7 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 #### B.S. Biomedical Engineering, Expected May 2023, 
 #### Department of Biomedical Engineering, The George Washington University
 
-#### [CARDIAC OPTOGENETICS & OPTICAL IMAGING RESEARCH] (https://entcheva.seas.gwu.edu), ENTCHEVA LAB
+#### [CARDIAC OPTOGENETICS & OPTICAL IMAGING RESEARCH](https://entcheva.seas.gwu.edu), ENTCHEVA LAB
 #### Department of Biomedical Engineering, The George Washington University
 
 #### Biography 
@@ -117,7 +117,7 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 ## [Honey W. Nashman Center for Civic Engagement and Public Service](https://serve.gwu.edu/)
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU_NashmanCenter_Logo.png)
 
-## [Public Service Grant Commission](https://serve.gwu.edu/](https://serve.gwu.edu/public-service-grant-commission)
+## [Public Service Grant Commission](https://serve.gwu.edu/public-service-grant-commission)
 
 ## [Design, Engineering, Innovation (DEI)LAB](https://www.deilab.com/)
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_DEILAB_Logo.png)
