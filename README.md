@@ -25,10 +25,12 @@
 ## 🆕 🤖 LEGO® Battle Bots! 
 * Mon., April 3rd, 2023, 4:00-6:00 pm EST
 * Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams.
+* 🇪🇸 COMING SOON ...
 
 ## 🆕 💞 Family Fun Day 
 * Mon., April 24th, 2023, 4:00-6:30 pm EST
 * We invite all students & families to join us ofor free food &  activities for students. Members of the Society of Hispanic Professional Engineers (SHPE) will host bilingual programming for parents to learn how they can support their child to pursue a career in STEM.
+* 🇪🇸 COMING SOON ...
 
 ## **Lanuage**
 
@@ -119,6 +121,8 @@ As an undergraduate student, I’ve become increasingly involved in the Society 
  
 This semester, as the Co-President of my SHPE chapter and the Community Outreach Director of The Engineers’ Council, I’ve led an initiative to cultivate a tutoring partnership with the Latin American Youth Center for elementary school students in Columbia Heights, Washington, DC. As a member of the inaugural cohort of the Engineering for Social Innovation course, my group service-learning project has focused on teaching a weekly STEAM course to bridge the gap between STEM and Art. My colleagues and I collected data from stakeholder interviews and designed lesson plans centered around utilizing “the cycle of invention” to teach students about how they can catalyze social change in their communities.
 
+* 🇪🇸 COMING SOON ...
+
 <br>
 
 ### [Sarah Antonevich](https://www.linkedin.com/in/santonevich/)
@@ -127,14 +131,32 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 #### 🎓 B.S. Biomedical Engineering, Expected May 2023, 
 #### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
 #### 🔬 Cardiac Optogenetics & Optical Imaging Reasearcher, [Entcheva Lab](https://entcheva.seas.gwu.edu)
-#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
+#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
 #### 📫 santonevich@gwmail.gwu.edu
 
 #### Biography 
 
 ## **Board of Directors** ##
 
+###
+
+####
+####
+####
+
+###
+
+####
+####
+####
+
+* 🇪🇸 COMING SOON ...
+
 ## 📊 **News** ##
+
+### 
+
+* 🇪🇸 COMING SOON ...
 
 # **How to Get Involved** #
 
@@ -149,9 +171,11 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
  * **"Volunteer (Non-LAYC employees) / Intern / Voluntario (No empleados de LAYC) / Pasante"**
 * The additional questions on the form will be related to your vaccination status, recent infection status, & current symptoms. 
 
+* 🇪🇸 COMING SOON ...
+
 # **Youtube Workshop Series** #
 
-## COMING SOON ...
+### COMING SOON ...
 
 # **Partners** #
 ## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
@@ -167,6 +191,8 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 
 ## [Design, Engineering, Innovation (DEI)LAB](https://www.deilab.com/)
 ![Design, Engineering, Innovation (DEI)LAB](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersDEILABLogo.png)
+
+
 
 ## [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
 ![SHPE GWU Student Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEGWUStudentChapterLogo.png)
