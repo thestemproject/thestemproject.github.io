@@ -13,31 +13,37 @@
   * [Founders](#founders)
   * [Board of Directors](#boardofdirectors)
   * [News](#news)
+* [How to Get Involved](#getinvolved)
+  * [Volunteer Registration Form](#volunteerregistrationform)
+  * [COVD-19 Protocols](#covd-19protocols)
 * [Youtube Workshop Series](#youtubeworkshopseries)
 * [Partners](#partners)
 * [Contact Us](#contactus)
 
 # 📅 **Upcoming Workshops** 
 
+## 🕟 **Dates & Times**
+
 ## 📋 **Flyers** 
 
 ## 📍 **Location**
+[1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
 
-1419 Columbia Road, NW
-Washington, DC 20009
+## **Lanuage**
+
+
+## ☎️ **Contact Information**
+
 (202) 319-2225
 
-## **Contact Information**
-
 ### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
-![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png?raw=true "LAYC")
 
 # **About Us**
 
 ## 💡 **Mission** 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
 
-## 📚 **Our Impact**
+## 💟 **Our Impact**
 
 ## 📝 **History** 
 
@@ -96,9 +102,22 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 
 ## **Board of Directors** ##
 
-
-
 ## :bar_chart: **News** ##
+
+# **How to Get Involved* #
+
+## **Volunteer Registration Form** ##
+
+## **COVD-19 Protocols** ##
+- Masks required
+- Temperature sensor scan before entering the Teen Center facility
+- QR to Google Form for Volunteer Sign-In. Also, find the link to the form below for your reference:
+[WELCOME TO LAYC / BIENVENIDOS A LAYC](https://docs.google.com/forms/d/e/1FAIpQLSccoA5Hdl9v_1jVTS2Ifj-E-lEp5lOsA-nI7JcDvn2-l7N7UQ/viewform)
+- At the question where it asks: "Reason For Visit/ Razon de la visita", please respond with:
+**"Volunteer (Non-LAYC employees) / Intern / Voluntario (No empleados de LAYC) / Pasante"**
+- The additional questions on the form will be related to your vaccination status, recent infection status, & current symptoms. 
+
+## **How to Get Involved* ##
 
 # **Youtube Workshop Series** #
 
