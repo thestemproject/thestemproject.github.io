@@ -18,7 +18,7 @@
 # :date: **Upcoming Workshops** 
 
 <br>
-## :clipboard: **Flyers** 
+## :clipboard: **Flyers** ##
 
 <br>
 # **About Us** 
@@ -41,7 +41,7 @@ The difference in life expectancy at birth between Ward 3 (87 years) and Ward 1 
 
 With the support from the Public Service Grant Commission social innovation fund from the GW Nashman Center for Civic Engagement & Public Service, The STEM Project will collaborate with local SHPE chapters to deliver Noche de Ciencias programming activities that will increase Hispanic/Latinx students’ beliefs in their ability to succeed in STEM and their STEM identity. A network of professionals from the SHPE DC Professional chapter will assist in delivering bilingual information sessions for parents about the avenues for their children to pursue degrees in STEM. In addition to introducing students to the support system available through SHPE, the program will include a LEGO Innovation session with a  DEILAB curriculum that teaches students about interdisciplinary collaboration and rapid prototyping. By partnering with independent researchers at the National Institute of Health, The STEM Project will empower students to explore the marvel of microscopes by preparing slides and imaging microorganisms from local National Parks. The STEM Project provides a model that HSIs and service organizations can use to implement similar programs in local communities.
 
-### :book: **References**
+### :book: **References** ###
 <br>
 
 <br>
