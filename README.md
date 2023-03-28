@@ -35,7 +35,7 @@ The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide acade
 # Contact Us #
 boardofdirectors@thestemproject-dc.org
 
-thestemproject.github.io
+Website: https://www.thestemproject.github.io
 
 (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project Website
 
