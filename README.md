@@ -1,4 +1,4 @@
-# The STEM Project :books: :microbe: :seedling: :test_tube: :dna: :microscope: 
+# The STEM Project :books: :battery: :seedling: :test_tube: :dna: :microscope: 
 ![The STEAM Teaching, Engagement & Mentorship (STEM) Project](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Logo.png)
 
 # **Table of Contents** 
@@ -19,11 +19,11 @@
 
 ## :clipboard: **Flyers** 
 
-## :: **Location**
+## :round_pushpin: **Location**
 
 ### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png)
-<img src="./23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png", alt="23_TheSTEMProject_Partners_LAYC_Logo.png">
+<img src="23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png", alt="23_TheSTEMProject_Partners_LAYC_Logo.png">
 
 # **About Us**
 
@@ -137,9 +137,9 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 
 # **Contact Us** #
 
-**Email:** boardofdirectors@thestemproject-dc.org
+**Email :e-mail: ** boardofdirectors@thestemproject-dc.org
 <br>
-**Website:** https://www.thestemproject.github.io
+**Website :calling: ** https://www.thestemproject.github.io
 <br>
 **LinkedIn:**
 <br>
