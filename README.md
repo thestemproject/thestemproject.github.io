@@ -142,8 +142,13 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 ## [SHPE Washington, DC Professional Chapter](https://www.shpe-dc.org/index.html)
 ![SHPE Washington, DC Professional Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEDCProfessionalChapterLogo.png)
 
+## [GWU Innovation Center](https://www.seas.gwu.edu/gw-innovation-center)
+
 ## [GWU Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/)
-![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEngineering.png)
+![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUBME.png)
+
+## [GWU Department of Engineering Management & Systems Engineering](https://www.emse.seas.gwu.edu/)
+![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUBME.png)
 
 ## [GW Engineering](https://www.seas.gwu.edu/)
 ![GW Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEngineering.png)
