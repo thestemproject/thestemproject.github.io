@@ -1,4 +1,4 @@
-# The STEM Project :books: :battery: :seedling: :: :: :microscope: 
+# The STEM Project 📚 🔋 🖥️ 🌱 💡 🔬
 ![The STEAM Teaching, Engagement & Mentorship (STEM) Project](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Logo.png)
 
 # **Table of Contents** 
@@ -15,9 +15,9 @@
 * [Partners](#partners)
 * [Contact Us](#contactus)
 
-# :date: **Upcoming Workshops** 
+# 📅 **Upcoming Workshops** 
 
-## :clipboard: **Flyers** 
+## 📋 **Flyers** 
 
 <img >
 
@@ -30,10 +30,10 @@
 # **About Us**
 
 
-## :bulb: **Mission** 
+## 💡 **Mission** 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
 
-## :pencil: **History** 
+## 📝 **History** 
 
 ### **Data-driven Approaches for Developing STEM-focused Learning Environments in Hispanic Communities** ###
 
@@ -47,11 +47,11 @@ The difference in life expectancy at birth between Ward 3 (87 years) and Ward 1 
 
 With the support from the Public Service Grant Commission social innovation fund from the GW Nashman Center for Civic Engagement & Public Service, The STEM Project will collaborate with local SHPE chapters to deliver Noche de Ciencias programming activities that will increase Hispanic/Latinx students’ beliefs in their ability to succeed in STEM and their STEM identity. A network of professionals from the SHPE DC Professional chapter will assist in delivering bilingual information sessions for parents about the avenues for their children to pursue degrees in STEM. In addition to introducing students to the support system available through SHPE, the program will include a LEGO Innovation session with a  DEILAB curriculum that teaches students about interdisciplinary collaboration and rapid prototyping. By partnering with independent researchers at the National Institute of Health, The STEM Project will empower students to explore the marvel of microscopes by preparing slides and imaging microorganisms from local National Parks. The STEM Project provides a model that HSIs and service organizations can use to implement similar programs in local communities.
 
-### :book: **References** ###
+### 📖 **References** ###
 
 #### 1. [2022-2025 Society of Hispanic Professional Engineers (SHPE) Strategic Plan](https://shpe.org/wp-content/uploads/2022/07/2022-25-Strategic-Plan_Final_Web.pdf)
 #### 2. [2021 Washington, DC School Report Card](https://osse.dc.gov/dcschoolreportcard)
-#### 3. [DC Department of Health -- Health Equity Report for the District of Columbia 2018](https://dchealth.dc.gov/publication/health-equity-report-district-columbia-2018)
+#### 3. [2018 Health Equity Report for the District of Columbia 2018 -- DC Department of Health](https://dchealth.dc.gov/publication/health-equity-report-district-columbia-2018)
 
 ## **Founders** ###
 
@@ -59,7 +59,7 @@ With the support from the Public Service Grant Commission social innovation fund
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Gonzalez_SanchezDahl_Matteo.jpeg)
 
 #### B.S. Biomedical Engineering, Expected May 2023, 
-#### Department of Biomedical Engineering, [The George Washington University](https://www.gwu.edu/)
+#### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
 
 #### NMR-based Metabolomics Researcher, Cheng Lab, 
 #### Department of Molecular Pathology, Massachusetts General Hospital
@@ -80,11 +80,11 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Antonevich_Sarah.png)
 
 #### B.S. Biomedical Engineering, Expected May 2023, 
-#### Department of Biomedical Engineering, [The George Washington University](https://www.gwu.edu/)
+#### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
 
 
 #### [CARDIAC OPTOGENETICS & OPTICAL IMAGING RESEARCH](https://entcheva.seas.gwu.edu), ENTCHEVA LAB
-#### Department of Biomedical Engineering, [The George Washington University](https://www.gwu.edu/)
+#### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
 
 #### Biography 
 
