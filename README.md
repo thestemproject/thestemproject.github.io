@@ -1,7 +1,7 @@
-# The STEM Project :books: :microbe: :seedling: :test_tube: :dna: :microscope: #
+# The STEM Project :books: :microbe: :seedling: :test_tube: :dna: :microscope: 
 ![The STEAM Teaching, Engagement & Mentorship (STEM) Project](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Logo.png)
 <br>
-# **Table of Contents** #
+# **Table of Contents** 
 ---
 * [Upcoming Workshops](#upcomingworkshops)
   * [Flyers](#flyers)
@@ -15,19 +15,19 @@
 * [Partners](#partners)
 * [Contact Us](#contactus)
 <br>
-# :date: **Upcoming Workshops** #
+# :date: **Upcoming Workshops** 
 
 <br>
-## :clipboard: **Flyers** ##
+## :clipboard: **Flyers** 
 
 <br>
-# **About Us** #
+# **About Us** 
 
 <br>
-## :bulb: **Mission** ##
+## :bulb: **Mission** 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
 <br>
-## :pencil: **History** ##
+## :pencil: **History** 
 <br>
 ### **Data-driven Approaches for Developing STEM-focused Learning Environments in Hispanic Communities** ###
 
