@@ -49,6 +49,16 @@ With the support from the Public Service Grant Commission social innovation fund
 
 ## **Founders** ###
 
+### Matteo Sanchez-Dahl Gonzalez
+#### B.S. Biomedical Engineering, Expected May 2023, 
+#### Department of Biomedical Engineering, The George Washington University
+#### NMR-based Metabolomics Researcher, Cheng Lab, 
+#### Department of Molecular Pathology, Massachusetts General Hospital
+
+##### Biography 
+
+
+
 ## **Board of Directors** ##
 
 ## :bar_chart: **News** ##
@@ -65,7 +75,7 @@ With the support from the Public Service Grant Commission social innovation fund
 ## [Honey W. Nashman Center for Civic Engagement and Public Service](https://serve.gwu.edu/)
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU_NashmanCenter_Logo.png)
 
-## [Public Service Grant Commission]([https://serve.gwu.edu/](https://serve.gwu.edu/public-service-grant-commission)
+## [Public Service Grant Commission](https://serve.gwu.edu/](https://serve.gwu.edu/public-service-grant-commission)
 
 ## [Design, Engineering, Innovation (DEI)LAB](https://www.deilab.com/)
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_DEILAB_Logo.png)
