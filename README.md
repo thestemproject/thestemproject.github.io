@@ -24,16 +24,16 @@
 
 # 📅 **Upcoming Workshops** 
 
-## 🆕 🤖 LEGO® Battle Bots! 
+## 🤖 LEGO® Battle Bots! 
 * Mon., April 3rd, 2023, 4:00-6:00 pm EST
 * Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams.
-* 🇪🇸 COMING SOON ...
+  * 🇪🇸 COMING SOON ...
 
 
-## 🆕 💞 Family Fun Day 
+## 💞 Family Fun Day 
 * Mon., April 24th, 2023, 4:00-6:30 pm EST
 * We invite all students & families to join us ofor free food &  activities for students. Members of the Society of Hispanic Professional Engineers (SHPE) will host bilingual programming for parents to learn how they can support their child to pursue a career in STEM.
-* 🇪🇸 COMING SOON ...
+  * 🇪🇸 COMING SOON ...
 
 
 ## **Lanuage**
@@ -53,12 +53,10 @@
 ## 📋 **Flyers | 🇪🇸 Más Información sobre los Eventos** 
 ![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
 
-
 ## 📍 **Location | 🇪🇸 Ubicación de los Eventos**
-* 🇺🇸 All events will take place at the LAYC.
-* 🇪🇸 Todos los eventos en el LAYC.
-  * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
-
+* All events will take place at the LAYC.
+  * 🇪🇸 Todos los eventos en el LAYC.
+* [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
 
 ## **Contact Information | 🇪🇸 Información de Contacto**
 * 🖥️ **Website:** [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
@@ -70,8 +68,8 @@
 # **About Us**
 
 ## 💡 **Mission** 
-The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
-* 🇪🇸 COMING SOON ...
+* The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
+  * 🇪🇸 COMING SOON ...
 
 
 ## 💟 **Our Impact**
@@ -81,19 +79,19 @@ The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide acade
 #### 🔬 **The Marvel of Microscropes**
 💠 Have you always wondered what cells look like? Join us to learn about microscopes,  slide preparation, & the inside of a cell. Bring something you'd want to see under a microscope! 🦠 🧬 🌱
 ![Microscopes](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicroscopeWorkshop.jpg)
-* 🇪🇸 COMING SOON ...
-
+  * 🇪🇸 COMING SOON ...
 
 ### 🔌 **Circuits, Signals, & More** 
-💠 How does electricity work? How do lights turn on? Unleash your design & engineering skills by learning how to build circuits & dynamic art with LEDs! :electron: 🖥️ 🔋 💡
+* 💠 How does electricity work? How do lights turn on? Unleash your design & engineering skills by learning how to build circuits & dynamic art with LEDs! :electron: 🖥️ 🔋 💡
+  * 🇪🇸 COMING SOON ...
 ![Microcontrollers](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshop.jpg)
-* 🇪🇸 COMING SOON ...
 
+<br>
 
-💠 Students learned how to make a flower on a breadboard!
-* 🇪🇸 ¡Los estudiantes aprendieron cómo construir una flor usando LED, circuitos y microcontroladores!
-💭 Let us know if you think it looks like a flower. We got mixed reviews 😄.
-* 🇪🇸 Háganos saber si cree que el circuito de la foto se parece a una flor. La gente nos ha dado opiniones mixtas 😄.
+* 💠 Students learned how to make a flower on a breadboard!
+  * 🇪🇸 ¡Los estudiantes aprendieron cómo construir una flor usando LED, circuitos y microcontroladores!
+* 💭 Let us know if you think it looks like a flower. We got mixed reviews 😄.
+  * 🇪🇸 Háganos saber si cree que el circuito de la foto se parece a una flor. La gente nos ha dado opiniones mixtas 😄.
 ![Flower](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshopBreadboardFlower.jpg)
 
 <br>
@@ -167,7 +165,8 @@ With the support from the Public Service Grant Commission social innovation fund
 # **How to Get Involved** #
 
 ## **Volunteer Registration Form** ##
-
+ 🆕 
+  🆕 
 ## ❗ **COVD-19 Protocols** ##
 * Masks required
 * Temperature sensor scan before entering the Teen Center facility
@@ -185,15 +184,19 @@ With the support from the Public Service Grant Commission social innovation fund
 ## COMING SOON ...
 * 🇪🇸 COMING SOON ...
 
-<br>
+# **Contact Us** #
+📧 **Email** boardofdirectors@thestemproject-dc.org
+📲 **Website** https://www.thestemproject.github.io
+**LinkedIn:** COMING SOON ...
+(c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project Website
 
 # **Partners** #
 
-## [George Washington University (GWU)](https://www.gwu.edu/)
-![George Washington University (GWU)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWU.png)
-
 ## [Honey W. Nashman Center for Civic Engagement and Public Service](https://serve.gwu.edu/)
 ![Honey W. Nashman Center for Civic Engagement and Public Service](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUNashmanCenterLogo.png)
+
+## [George Washington University (GWU)](https://www.gwu.edu/)
+![George Washington University (GWU)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWU.png)
 
 ## [Public Service Grant Commission](https://serve.gwu.edu/public-service-grant-commission)
 
@@ -225,15 +228,3 @@ With the support from the Public Service Grant Commission social innovation fund
 
 ## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 ![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png)
-
-<br>
-
-# **Contact Us** #
-
-📧 **Email** boardofdirectors@thestemproject-dc.org
-
-📲 **Website** https://www.thestemproject.github.io
-
-**LinkedIn:** COMING SOON ...
-
-(c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project Website
