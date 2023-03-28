@@ -3,7 +3,7 @@
 ![The STEAM Teaching, Engagement & Mentorship (STEM) Project](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectLogo1.png)
 
 # **Table of Contents** 
-
+* [Contact Us](#contactus)
 * [Upcoming Workshops](#upcomingworkshops)
   * [Flyers](#flyers)
 * [About Us](#aboutus)
@@ -18,9 +18,15 @@
   * [COVD-19 Protocols](#covd-19protocols)
 * [Youtube Workshop Series](#youtubeworkshopseries)
 * [Partners](#partners)
-* [Contact Us](#contactus)
+* [Contact Information](#contactinfo)
 
 <br>
+
+# **Contact Us** #
+* 📧 **Email** boardofdirectors@thestemproject-dc.org
+* 📲 **Website** https://www.thestemproject.github.io
+* **LinkedIn:** **COMING SOON ...**
+* (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project
 
 # 📅 **Upcoming Workshops** 
 
@@ -73,6 +79,8 @@
 * ![Microscopes](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicroscopeWorkshop.jpg)
   * 🇪🇸 **COMING SOON ...**
 
+<br>
+
 ### 🔌 **Circuits, Signals, & More** 
 * 💠 How does electricity work? How do lights turn on? Unleash your design & engineering skills by learning how to build circuits & dynamic art with LEDs! :electron: 🖥️ 🔋 💡
   * **COMING SOON ...**
@@ -102,9 +110,7 @@ The difference in life expectancy at birth between Ward 3 (87 years) and Ward 1 
 
 With the support from the Public Service Grant Commission social innovation fund from the GW Nashman Center for Civic Engagement & Public Service, The STEM Project will collaborate with local SHPE chapters to deliver Noche de Ciencias (NdC) programming activities that will increase Hispanic/Latinx students’ beliefs in their ability to succeed in STEM and their STEM identity [4]. A network of professionals from the SHPE DC Professional chapter will assist in delivering bilingual information sessions for parents, Equipando Padres (EP) about the avenues for their children to pursue degrees in STEM [5]. In addition to introducing students to the support system available through SHPE, the program will include a LEGO Innovation session with a  DEILAB curriculum that teaches students about interdisciplinary collaboration and rapid prototyping. By partnering with independent researchers at the National Institute of Health, The STEM Project will empower students to explore the marvel of microscopes by preparing slides and imaging microorganisms from local National Parks. The STEM Project provides a model that HSIs and service organizations can use to implement similar programs in local communities.
 
-* 🇪🇸 COMING SOON ...
-
-<br>
+* 🇪🇸 **COMING SOON ...**
 
 ### 📖 **References** ###
 
@@ -157,8 +163,15 @@ With the support from the Public Service Grant Commission social innovation fund
 # **How to Get Involved** #
 
 ## **Volunteer Registration Form** ##
- 🆕 
-  🆕 
+🆕 🆕 🆕 🆕 🆕 🆕 
+🆕 🆕 🆕 🆕 🆕 🆕 
+🆕 🆕 🆕 🆕 🆕 🆕 
+🆕 🆕 🆕 🆕 🆕 🆕 
+🆕 🆕 🆕 🆕 🆕 🆕 
+
+## COMING SOON ...
+* 🇪🇸 **COMING SOON ...**
+
 ## ❗ **COVD-19 Protocols** ##
 * Masks required
 * Temperature sensor scan before entering the Teen Center facility
@@ -176,11 +189,18 @@ With the support from the Public Service Grant Commission social innovation fund
 ## COMING SOON ...
 * 🇪🇸 **COMING SOON ...**
 
-# **Contact Us** #
-📧 **Email** boardofdirectors@thestemproject-dc.org
-📲 **Website** https://www.thestemproject.github.io
-**LinkedIn:** COMING SOON ...
-(c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project Website
+# **Contact Information | 🇪🇸 Información de Contacto** #
+
+## The STEM Project
+* 📧 **Email** boardofdirectors@thestemproject-dc.org
+* 📲 **Website** https://www.thestemproject.github.io
+* **LinkedIn:** **COMING SOON ...**
+* (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project
+
+## **Latin American Youth Center**
+* 🖥️ **Website:** [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
+* 📧 **E-Mail:** cheili.obregonmolina@layc-dc.org
+* ☎️ **Phone:** (202) 319-2225
 
 # **Partners** #
 
