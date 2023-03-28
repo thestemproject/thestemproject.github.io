@@ -1,5 +1,7 @@
+# The STEM Project #
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/TheSTEMProject.png)
 # **Table of Contents** #
-
+---
 * [Upcoming Workshops](#upcomingworkshops)
   * [Flyers](#flyers)
 * [About Us](#aboutus)
