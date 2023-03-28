@@ -22,21 +22,21 @@
 
 <br>
 
-# **Contact Us** #
+# **Contact Us | 🇪🇸 Contáctenos para más información** #
 * 📧 **Email** boardofdirectors@thestemproject-dc.org
-* 📲 **Website** https://www.thestemproject.github.io
-* **LinkedIn:** **COMING SOON ...**
+* 🖥️ **Website** https://www.thestemproject.github.io
+* 📲 **LinkedIn:** **COMING SOON ...**
 * (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project
 
 # 📅 **Upcoming Workshops** 
 
-## 🤖 LEGO® Battle Bots! 
+## 🤖 LEGO® Battle Bots! | 🇪🇸 Robots de combate LEGO®
 * **Mon., April 3rd, 2023, 4:00-6:00 pm EST**
 * Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams.
   * 🇪🇸 **COMING SOON ...**
 
 
-## 💞 Family Fun Day 
+## 💞 Family Fun Day | 🇪🇸 Celebración de primavera en familia y diversión
 * **Mon., April 24th, 2023, 4:00-6:30 pm EST**
 * We invite all students & families to join us ofor free food &  activities for students. Members of the Society of Hispanic Professional Engineers (SHPE) will host bilingual programming for parents to learn how they can support their child to pursue a career in STEM.
   * 🇪🇸 **COMING SOON ...**
@@ -83,7 +83,7 @@
 
 ### 🔌 **Circuits, Signals, & More** 
 * 💠 How does electricity work? How do lights turn on? Unleash your design & engineering skills by learning how to build circuits & dynamic art with LEDs! :electron: 🖥️ 🔋 💡
-  * **COMING SOON ...**
+  * 🇪🇸 **COMING SOON ...**
 * ![Microcontrollers](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshop.jpg)
 
 <br>
@@ -97,6 +97,8 @@
 <br>
 
 ## 📝 **History** 
+
+### TODO: ADD SOCIAL INNOVATION WORK ### 
 
 ### **Data-driven Approaches for Developing STEM-focused Learning Environments in Hispanic Communities** ###
 
@@ -193,8 +195,8 @@ With the support from the Public Service Grant Commission social innovation fund
 
 ## The STEM Project
 * 📧 **Email** boardofdirectors@thestemproject-dc.org
-* 📲 **Website** https://www.thestemproject.github.io
-* **LinkedIn:** **COMING SOON ...**
+* 🖥️ **Website** https://www.thestemproject.github.io
+* 📲 **LinkedIn:** **COMING SOON ...**
 * (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project
 
 ## **Latin American Youth Center**
