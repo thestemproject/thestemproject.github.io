@@ -25,9 +25,8 @@
 ## 📍 **Location**
 
 ### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
-![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png)
+![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png?raw=true "LAYC")
 <img src="https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png", alt="23TheSTEMProjectPartnersLAYCLogo.png">
-
 # **About Us**
 
 
