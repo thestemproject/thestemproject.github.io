@@ -50,16 +50,58 @@ With the support from the Public Service Grant Commission social innovation fund
 ## **Founders** ###
 
 ### Matteo Sanchez-Dahl Gonzalez
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Gonzalez_SanchezDahl_Matteo.jpeg)
+
 #### B.S. Biomedical Engineering, Expected May 2023, 
 #### Department of Biomedical Engineering, The George Washington University
+
 #### NMR-based Metabolomics Researcher, Cheng Lab, 
 #### Department of Molecular Pathology, Massachusetts General Hospital
 
-##### Biography 
+#### Undergraduate Representative, National Board of Directors
+#### [Society of Hispanic Professional Engineers](https://shpe.org/)
 
+#### Biography 
+I, Matteo Sanchez-Dahl Gonzalez, am first-generation Mexican-American. I will change the narrative about people from minority backgrounds succeeding in science by exemplifying excellence in every endeavor and empowering the Hispanic community. I plan to complete a 5-year MS/BS program in Biomedical Engineering before applying to Medical Scientist Training Programs to pursue an MD-Ph.D. 
+ 
+As a physician-scientist, I will serve patient needs from all walks of life and provide professional development opportunities to students from underrepresented populations. I want to combine my interest in scientific research with my passion for social justice by utilizing epidemiology and metabolomics to shed light on the adverse effects of systematic disparity on human health. I believe employing empathy to connect with new perspectives is part of the essence of scientific exploration. To become a holistic scientist, I will contribute my leadership abilities to create a culture that champions diverse ideas and perspectives. 
+ 
+As an undergraduate student, I’ve become increasingly involved in the Society of Hispanic Professional Engineers (SHPE), both at my local chapter and in my region. As a leader of my chapter, I helped revive the spirit of SHPE on campus after a period of dormancy through recruitment efforts and by cultivating partnerships with other student organizations. As a Sub-Regional Student Representative, I’ve solidified the sense of “familia” in New England by connecting with chapter leaders through the events I’ve hosted and led social media campaigns for scholarship and professional development opportunities.
+ 
+This semester, as the Co-President of my SHPE chapter and the Community Outreach Director of The Engineers’ Council, I’ve led an initiative to cultivate a tutoring partnership with the Latin American Youth Center for elementary school students in Columbia Heights, Washington, DC. As a member of the inaugural cohort of the Engineering for Social Innovation course, my group service-learning project has focused on teaching a weekly STEAM course to bridge the gap between STEM and Art. My colleagues and I collected data from stakeholder interviews and designed lesson plans centered around utilizing “the cycle of invention” to teach students about how they can catalyze social change in their communities.
 
+### Sarah Antonevich
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Antonevich_Sarah.png)
+
+#### B.S. Biomedical Engineering, Expected May 2023, 
+#### Department of Biomedical Engineering, The George Washington University
+
+#### [CARDIAC OPTOGENETICS & OPTICAL IMAGING RESEARCH] (https://entcheva.seas.gwu.edu/), ENTCHEVA LAB
+#### Department of Biomedical Engineering, The George Washington University
+
+#### Biography 
 
 ## **Board of Directors** ##
+
+### Annette Jimenez
+
+#### B.S. Biomedical Engineering, Expected May 2024, 
+#### Department of Biomedical Engineering, The George Washington University
+
+#### President,
+#### [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
+
+#### Biography 
+
+### Roger Castaneda
+
+#### B.S. Biomedical Engineering, Expected May 2024, 
+#### Department of Biomedical Engineering, The George Washington University
+
+#### Vice President,
+#### [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
+
+#### Biography 
 
 ## :bar_chart: **News** ##
 
@@ -101,7 +143,3 @@ With the support from the Public Service Grant Commission social innovation fund
 **LinkedIn:**
 <br>
 (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project Website
-
-
-
-
