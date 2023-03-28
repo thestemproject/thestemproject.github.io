@@ -22,6 +22,8 @@
 
 # 📅 **Upcoming Workshops** 
 
+![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
+
 🆕
 
 :diamond_shape_with_a_dot_inside:
@@ -138,9 +140,9 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
  * **"Volunteer (Non-LAYC employees) / Intern / Voluntario (No empleados de LAYC) / Pasante"**
 * The additional questions on the form will be related to your vaccination status, recent infection status, & current symptoms. 
 
-## **How to Get Involved** ##
-
 # **Youtube Workshop Series** #
+
+## COMING SOON ...
 
 # **Partners** #
 ## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
@@ -180,6 +182,6 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 
 📲 **Website** https://www.thestemproject.github.io
 
-**LinkedIn:**
+**LinkedIn:** COMING SOON ...
 
 (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project Website
