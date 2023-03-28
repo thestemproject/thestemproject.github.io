@@ -22,12 +22,13 @@
 
 # 📅 **Upcoming Workshops** 
 
-![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
+## 🆕 🤖 LEGO® Battle Bots! 
+* Mon., April 3rd, 2023, 4:00-6:00 pm EST
+* Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams.
 
-🆕
-
-:diamond_shape_with_a_dot_inside:
-
+## 🆕 💞 Family Fun Day 
+* Mon., April 24th, 2023, 4:00-6:30 pm EST
+* We invite all students & families to join us ofor free food &  activities for students. Members of the Society of Hispanic Professional Engineers (SHPE) will host bilingual programming for parents to learn how they can support their child to pursue a career in STEM.
 
 ## **Lanuage**
 
@@ -41,9 +42,10 @@
 
 * 🇪🇸 Los eventos del STEM Project estan planeados para todos los lunes y miercoles en la tarde, de 4:30-5:30 pm EST, hasta la semana de 5/22.
 
-## 📋 **🇺🇸 Flyers / 🇪🇸 Más Información sobre los Eventos** 
+## 📋 ** Flyers / 🇪🇸 Más Información sobre los Eventos** 
+![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
 
-## 📍 **🇺🇸 Location / 🇪🇸 Ubicación de los Eventos **
+## 📍 ** Location / 🇪🇸 Ubicación de los Eventos **
 * 🇺🇸 All events will take place at the LAYC.
 * 🇪🇸 Todos los eventos en el LAYC.
   * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
@@ -60,10 +62,17 @@ The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide acade
 
 ## 💟 **Our Impact**
 
+### **Previous Workshops**
+
+#### 🔬 **The Marvel of Microscropes**
+💠 Have you always wondered what cells look like? Join us to learn about microscopes,  slide preparation, & the inside of a cell. Bring something you'd want to see under a microscope! 🦠 🧬 🌱
 ![Microscopes](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicroscopeWorkshop.jpg)
 
+### 🔌 **Circuits, Signals, & More** 
+💠 How does electricity work? How do lights turn on? Unleash your design & engineering skills by learning how to build circuits & dynamic art with LEDs! :electron: 🖥️ 🔋 💡
 ![Microcontrollers](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshop.jpg)
 
+💠 Students learned how to make a flower on a breadboard -- let us know if you think it looks like a flower; got mixed reviews :) ... Thank you!
 ![Flower](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshopBreadboardFlower.jpg)
 
 ## 📝 **History** 
