@@ -76,7 +76,7 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 #### B.S. Biomedical Engineering, Expected May 2023, 
 #### Department of Biomedical Engineering, The George Washington University
 
-#### [CARDIAC OPTOGENETICS & OPTICAL IMAGING RESEARCH] (https://entcheva.seas.gwu.edu/), ENTCHEVA LAB
+#### [CARDIAC OPTOGENETICS & OPTICAL IMAGING RESEARCH] (https://entcheva.seas.gwu.edu), ENTCHEVA LAB
 #### Department of Biomedical Engineering, The George Washington University
 
 #### Biography 
