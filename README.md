@@ -29,24 +29,24 @@
 
 ## **Lanuage**
 
-* 🇺🇸: All events will be facilitated bilingually (Spanish/English).
+* 🇺🇸 All events will be facilitated bilingually (Spanish/English).
 
-* 🇪🇸: Todos los eventos van a ser presentados en Inglés y Español.
+* 🇪🇸 Todos los eventos van a ser presentados en Inglés y Español.
 
 ## 🕟 **Dates & Times**
 
-* 🇺🇸: All STEM Project Workshops will be held 4:30-5:30 pm EST on Monday & Wendesdays until the week of 5/22.
+* 🇺🇸 All STEM Project Workshops will be held 4:30-5:30 pm EST on Monday & Wendesdays until the week of 5/22.
 
-* 🇪🇸: Los eventos del STEM Project estan planeados para todos los lunes y miercoles en la tarde, de 4:30-5:30 pm EST, hasta la semana de 5/22.
+* 🇪🇸 Los eventos del STEM Project estan planeados para todos los lunes y miercoles en la tarde, de 4:30-5:30 pm EST, hasta la semana de 5/22.
 
-## 📋 **🇺🇸: Flyers / 🇪🇸: ** 
+## 📋 **🇺🇸 Flyers / 🇪🇸 Más Información sobre los Eventos** 
 
-## 📍 **🇺🇸: Location / 🇪🇸: Ubicación de los eventos **
-* 🇺🇸: All events will take place at the LAYC.
-* 🇪🇸: Todos los eventos en el LAYC.
- * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
+## 📍 **🇺🇸 Location / 🇪🇸 Ubicación de los Eventos **
+* 🇺🇸 All events will take place at the LAYC.
+* 🇪🇸 Todos los eventos en el LAYC.
+  * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
 
-## ** 🇺🇸: Contact Information / 🇪🇸: Información de Contacto**
+## ** 🇺🇸 Contact Information / 🇪🇸 Información de Contacto**
 * **Website:**[Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 * 📧 **E-Mail:** cheili.obregonmolina@layc-dc.org
 * ☎️ **Phone:** (202) 319-2225
