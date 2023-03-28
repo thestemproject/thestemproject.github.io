@@ -22,28 +22,47 @@
 
 # 📅 **Upcoming Workshops** 
 
-## 🕟 **Dates & Times**
+🆕
 
-## 📋 **Flyers** 
+:diamond_shape_with_a_dot_inside:
 
-## 📍 **Location**
-[1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
 
 ## **Lanuage**
 
+* 🇺🇸: All events will be facilitated bilingually (Spanish/English).
 
-## ☎️ **Contact Information**
+* 🇪🇸: Todos los eventos van a ser presentados en Inglés y Español.
 
-(202) 319-2225
+## 🕟 **Dates & Times**
 
-### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
+* 🇺🇸: All STEM Project Workshops will be held 4:30-5:30 pm EST on Monday & Wendesdays until the week of 5/22.
 
-# **About Us**
+* 🇪🇸: Los eventos del STEM Project estan planeados para todos los lunes y miercoles en la tarde, de 4:30-5:30 pm EST, hasta la semana de 5/22.
+
+## 📋 **🇺🇸: Flyers / 🇪🇸: ** 
+
+## 📍 **🇺🇸: Location / 🇪🇸: Ubicación de los eventos **
+* 🇺🇸: All events will take place at the LAYC.
+* 🇪🇸: Todos los eventos en el LAYC.
+ * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
+
+## ** 🇺🇸: Contact Information / 🇪🇸: Información de Contacto**
+* **Website:**[Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
+* 📧 **E-Mail:** cheili.obregonmolina@layc-dc.org
+* ☎️ **Phone:** (202) 319-2225
+
+# 💭 **About Us**
 
 ## 💡 **Mission** 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
 
 ## 💟 **Our Impact**
+
+![Microscopes](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicroscopeWorkshop.jpg)
+
+![Microcontrollers](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshop.jpg)
+
+![Flower](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshopBreadboardFlower.jpg)
 
 ## 📝 **History** 
 
@@ -78,6 +97,7 @@ With the support from the Public Service Grant Commission social innovation fund
 #### 🏫 Department of Molecular Pathology, [Massachusetts General Hospital](https://www.martinos.org/);
 #### 🎓 Undergraduate Representative, [National Board of Directors](https://shpe.org/about-shpe/governance/nbod/)
 #### 📢 [Society of Hispanic Professional Engineers](https://shpe.org/)
+#### 📫 matteosanchez@gwmail.gwu.edu
 
 #### Biography 
 I, Matteo Sanchez-Dahl Gonzalez, am first-generation Mexican-American. I will change the narrative about people from minority backgrounds succeeding in science by exemplifying excellence in every endeavor and empowering the Hispanic community. I plan to complete a 5-year MS/BS program in Biomedical Engineering before applying to Medical Scientist Training Programs to pursue an MD-Ph.D. 
@@ -97,27 +117,28 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 #### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
 #### 🔬 Cardiac Optogenetics & Optical Imaging Reasearcher, [Entcheva Lab](https://entcheva.seas.gwu.edu)
 #### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
+#### 📫 santonevich@gwmail.gwu.edu
 
 #### Biography 
 
 ## **Board of Directors** ##
 
-## :bar_chart: **News** ##
+## 📊 **News** ##
 
-# **How to Get Involved* #
+# **How to Get Involved** #
 
 ## **Volunteer Registration Form** ##
 
-## **COVD-19 Protocols** ##
-- Masks required
-- Temperature sensor scan before entering the Teen Center facility
-- QR to Google Form for Volunteer Sign-In. Also, find the link to the form below for your reference:
-[WELCOME TO LAYC / BIENVENIDOS A LAYC](https://docs.google.com/forms/d/e/1FAIpQLSccoA5Hdl9v_1jVTS2Ifj-E-lEp5lOsA-nI7JcDvn2-l7N7UQ/viewform)
-- At the question where it asks: "Reason For Visit/ Razon de la visita", please respond with:
-**"Volunteer (Non-LAYC employees) / Intern / Voluntario (No empleados de LAYC) / Pasante"**
-- The additional questions on the form will be related to your vaccination status, recent infection status, & current symptoms. 
+## ❗ **COVD-19 Protocols** ##
+* Masks required
+* Temperature sensor scan before entering the Teen Center facility
+* QR to Google Form for Volunteer Sign-In. Also, find the link to the form below for your reference:
+ * [WELCOME TO LAYC / BIENVENIDOS A LAYC](https://docs.google.com/forms/d/e/1FAIpQLSccoA5Hdl9v_1jVTS2Ifj-E-lEp5lOsA-nI7JcDvn2-l7N7UQ/viewform)
+* At the question where it asks: "Reason For Visit/ Razon de la visita", please respond with:
+ * **"Volunteer (Non-LAYC employees) / Intern / Voluntario (No empleados de LAYC) / Pasante"**
+* The additional questions on the form will be related to your vaccination status, recent infection status, & current symptoms. 
 
-## **How to Get Involved* ##
+## **How to Get Involved** ##
 
 # **Youtube Workshop Series** #
 
@@ -148,7 +169,7 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 ![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUBME.png)
 
 ## [GWU Department of Engineering Management & Systems Engineering](https://www.emse.seas.gwu.edu/)
-![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUBME.png)
+![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEMSE.png)
 
 ## [GW Engineering](https://www.seas.gwu.edu/)
 ![GW Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEngineering.png)
