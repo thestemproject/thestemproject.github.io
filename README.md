@@ -1,4 +1,5 @@
-theme: Cayman
+theme: jekyll-theme-cayman
+
 # The STEAM Teaching, Engagement, &amp; Mentorship (STEM) Project Website
 
 ## Table of Contents 
