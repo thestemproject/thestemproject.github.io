@@ -20,6 +20,8 @@
 * [Partners](#partners)
 * [Contact Us](#contactus)
 
+<br>
+
 # 📅 **Upcoming Workshops** 
 
 ## 🆕 🤖 LEGO® Battle Bots! 
@@ -55,6 +57,8 @@
 * 📧 **E-Mail:** cheili.obregonmolina@layc-dc.org
 * ☎️ **Phone:** (202) 319-2225
 
+<br>
+
 # **About Us**
 
 ## 💡 **Mission** 
@@ -75,6 +79,8 @@ The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide acade
 💠 Students learned how to make a flower on a breadboard!
 💭 Let us know if you think it looks like a flower. We got mixed reviews 😄
 ![Flower](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshopBreadboardFlower.jpg)
+
+<br>
 
 ## 📝 **History** 
 
@@ -97,6 +103,8 @@ With the support from the Public Service Grant Commission social innovation fund
 #### 3️⃣ [2018 Health Equity Report for the District of Columbia 2018 -- DC Department of Health](https://dchealth.dc.gov/publication/health-equity-report-district-columbia-2018)
 #### 4️⃣ [Society of Hispanic Professional Engineers -- Noche de Ciencias Program](https://shpe.org/engage/programs/noche-de-ciencias/)
 #### 5️⃣ [Society of Hispanic Professional Engineers -- Equipando Padres Program](https://shpe.org/engage/programs/equipando-padres/)
+
+<br>
 
 ## **Founders** ###
 
@@ -138,9 +146,9 @@ With the support from the Public Service Grant Commission social innovation fund
 * Masks required
 * Temperature sensor scan before entering the Teen Center facility
 * QR to Google Form for Volunteer Sign-In. Also, find the link to the form below for your reference:
- * [WELCOME TO LAYC / BIENVENIDOS A LAYC](https://docs.google.com/forms/d/e/1FAIpQLSccoA5Hdl9v_1jVTS2Ifj-E-lEp5lOsA-nI7JcDvn2-l7N7UQ/viewform)
+  * [WELCOME TO LAYC / BIENVENIDOS A LAYC](https://docs.google.com/forms/d/e/1FAIpQLSccoA5Hdl9v_1jVTS2Ifj-E-lEp5lOsA-nI7JcDvn2-l7N7UQ/viewform)
 * At the question where it asks: "Reason For Visit/ Razon de la visita", please respond with:
- * **"Volunteer (Non-LAYC employees) / Intern / Voluntario (No empleados de LAYC) / Pasante"**
+  * **"Volunteer (Non-LAYC employees) / Intern / Voluntario (No empleados de LAYC) / Pasante"**
 * The additional questions on the form will be related to your vaccination status, recent infection status, & current symptoms. 
 
 # **Youtube Workshop Series** #
@@ -162,13 +170,17 @@ With the support from the Public Service Grant Commission social innovation fund
 ## [Design, Engineering, Innovation (DEI)LAB](https://www.deilab.com/)
 ![Design, Engineering, Innovation (DEI)LAB](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersDEILABLogo.png)
 
+## [Society of Hispanic Professional Engineers -- Noche de Ciencias Program](https://shpe.org/engage/programs/noche-de-ciencias/)
+![Society of Hispanic Professional Engineers -- Noche de Ciencias Program](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPENochedeCienciasTMRGB.png)
 
+## [Society of Hispanic Professional Engineers -- Equipando Padres Program](https://shpe.org/engage/programs/equipando-padres/)
+![Society of Hispanic Professional Engineers -- Equipando Padres Program](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPENochedeCienciasTMRGB.png)
 
 ## [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
-![SHPE GWU Student Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEGWUStudentChapterLogo.png)
+![SHPE GWU Student Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEGWUNavy.png)
 
 ## [SHPE Washington, DC Professional Chapter](https://www.shpe-dc.org/index.html)
-![SHPE Washington, DC Professional Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEDCProfessionalChapterLogo.png)
+![SHPE Washington, DC Professional Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEDCNavy.png)
 
 ## [GWU Innovation Center](https://www.seas.gwu.edu/gw-innovation-center)
 
