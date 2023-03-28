@@ -19,6 +19,8 @@
 
 ## :clipboard: **Flyers** 
 
+<img >
+
 ## :round_pushpin: **Location**
 
 ### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
@@ -35,11 +37,11 @@ The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide acade
 
 ### **Data-driven Approaches for Developing STEM-focused Learning Environments in Hispanic Communities** ###
 
-According to the 2022-2025 Society of Hispanic Professional Engineers (SHPE) Strategic Plan, there is a 10% disparity in representation for Hispanics in STEM in the US. Hispanics comprise 17% of the workforce but only 6% of scientists and engineers. The 2021 DC School Report Card reports that DCPS has a 73.63% four-year graduation rate, and the graduation rate by student group is lowest for Hispanic/Latinx students of any race (69.77%). The graduate rate in DCPS is emblematic of systemic issues in the education system, which has worsened due to the COVID-19 pandemic. For instance, the percentage of Hispanic/Latinx high school graduates of any race who enrolled in postsecondary degree-granting institutions within six months has decreased from 51.71% for the class of 2019 to 43.63% for the class of 2022. These statistics highlight the urgent societal need for K-12 STEM academic support and mentorship.
+According to the 2022-2025 Society of Hispanic Professional Engineers (SHPE) Strategic Plan, there is a 10% disparity in representation for Hispanics in STEM in the US. Hispanics comprise 17% of the workforce but only 6% of scientists and engineers [1]. The 2021 DC School Report Card reports that DCPS has a 73.63% four-year graduation rate, and the graduation rate by student group is lowest for Hispanic/Latinx students of any race (69.77%) [2]. The graduate rate in DCPS is emblematic of systemic issues in the education system, which has worsened due to the COVID-19 pandemic. For instance, the percentage of Hispanic/Latinx high school graduates of any race who enrolled in postsecondary degree-granting institutions within six months has decreased from 51.71% for the class of 2019 to 43.63% for the class of 2022 [2]. These statistics highlight the urgent societal need for K-12 STEM academic support and mentorship.
 
 ### **Leveraging Multi-Sectoral Social-Innovation to Advance Equity for Hispanics in STEM** ###
 
-The difference in life expectancy at birth between Ward 3 (87 years) and Ward 1 (80.9 years) of more than five years illustrates the severity of health equity issues in the city. The disparities are even more drastic when comparing Tenleytown (87.3 years) to Columbia Heights (79.8 years). The underlying effects of structural racism and the intersectionality of various determinants of health compound to worsen health outcomes for residents of low SES and who belong to historically marginalized racial groups. In Tenleytown, the Hispanic/Latinx population is 4-6.5%, and the percentage of adults (25+) without a high school diploma living in poverty is less than 12.3%. In comparison, the percentages in Columbia Heights are 20.5-31.7%, and 26.5%, respectively.
+The difference in life expectancy at birth between Ward 3 (87 years) and Ward 1 (80.9 years) of more than five years illustrates the severity of health equity issues in the city. The disparities are even more drastic when comparing Tenleytown (87.3 years) to Columbia Heights (79.8 years). The underlying effects of structural racism and the intersectionality of various determinants of health compound to worsen health outcomes for residents of low SES and who belong to historically marginalized racial groups. In Tenleytown, the Hispanic/Latinx population is 4-6.5%, and the percentage of adults (25+) without a high school diploma living in poverty is less than 12.3%. In comparison, the percentages in Columbia Heights are 20.5-31.7%, and 26.5%, respectively [3].
 
 ### **The STEAM Teaching, Engagement & Mentorship (STEM) Project** ###
 
@@ -47,6 +49,9 @@ With the support from the Public Service Grant Commission social innovation fund
 
 ### :book: **References** ###
 
+#### 1. [2022-2025 Society of Hispanic Professional Engineers (SHPE) Strategic Plan](https://shpe.org/wp-content/uploads/2022/07/2022-25-Strategic-Plan_Final_Web.pdf)
+#### 2. [2021 Washington, DC School Report Card](https://osse.dc.gov/dcschoolreportcard)
+#### 3. [DC Department of Health -- Health Equity Report for the District of Columbia 2018](https://dchealth.dc.gov/publication/health-equity-reghfghu.g kjport-district-columbia-2018)
 
 ## **Founders** ###
 
