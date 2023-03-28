@@ -25,8 +25,8 @@
 ## 📍 **Location**
 
 ### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
-![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png)
-<img src="https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png", alt="23_TheSTEMProject_Partners_LAYC_Logo.png">
+![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png)
+<img src="https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png", alt="23TheSTEMProjectPartnersLAYCLogo.png">
 
 # **About Us**
 
@@ -61,10 +61,8 @@ With the support from the Public Service Grant Commission social innovation fund
 
 #### B.S. Biomedical Engineering, Expected May 2023, 
 #### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
-<br>
 #### NMR-based Metabolomics Researcher, Cheng Lab, 
-#### Department of Molecular Pathology, Massachusetts General Hospital
-<br>
+#### Department of Molecular Pathology, Massachusetts General Hospital,
 #### Undergraduate Representative, National Board of Directors
 #### [Society of Hispanic Professional Engineers](https://shpe.org/)
 <br>
@@ -76,7 +74,9 @@ As a physician-scientist, I will serve patient needs from all walks of life and 
 As an undergraduate student, I’ve become increasingly involved in the Society of Hispanic Professional Engineers (SHPE), both at my local chapter and in my region. As a leader of my chapter, I helped revive the spirit of SHPE on campus after a period of dormancy through recruitment efforts and by cultivating partnerships with other student organizations. As a Sub-Regional Student Representative, I’ve solidified the sense of “familia” in New England by connecting with chapter leaders through the events I’ve hosted and led social media campaigns for scholarship and professional development opportunities.
  
 This semester, as the Co-President of my SHPE chapter and the Community Outreach Director of The Engineers’ Council, I’ve led an initiative to cultivate a tutoring partnership with the Latin American Youth Center for elementary school students in Columbia Heights, Washington, DC. As a member of the inaugural cohort of the Engineering for Social Innovation course, my group service-learning project has focused on teaching a weekly STEAM course to bridge the gap between STEM and Art. My colleagues and I collected data from stakeholder interviews and designed lesson plans centered around utilizing “the cycle of invention” to teach students about how they can catalyze social change in their communities.
+
 <br>
+
 ### Sarah Antonevich
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Antonevich_Sarah.png)
 
