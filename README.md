@@ -1,8 +1,4 @@
-# Mission
-
-The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
-# Table of Contents
-
+# Table of Contents #
 
 * [About Us](#aboutus)
   * [Mission](#mission)
@@ -14,51 +10,34 @@ The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide acade
 * [Partners](#partners)
 
 
-# Table of Contents
 
-## About Us 
+# Table of Contents #
 
-### Mission
+## Upcoming Workshops ##
 
-### News
+## About Us ##
 
-### History
+### Mission ###
 
-### Founders 
+The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
 
-### Leaders 
+### News ###
 
-## Upcoming Workshops 
+### History ###
 
-## Youtube Workshop Series
+### Founders ###
 
-## Partners
+### Board of Directors ### 
 
+## Youtube Workshop Series ##
 
-##
+## Partners ##
 
-
-##
-
-
-##
-
-
-##
-
-
-##
-
-
-##
-
-
-##
-
+# Contact Us #
 
 
 thestemproject.github.io
-The STEAM Teaching, Engagement, &amp; Mentorship (STEM) Project Website
+(c) The STEAM Teaching, Engagement, & Mentorship (STEM) Project Website
 
 
 
