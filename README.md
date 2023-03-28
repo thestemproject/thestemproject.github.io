@@ -42,7 +42,7 @@
 
 * 🇪🇸 Los eventos del STEM Project estan planeados para todos los lunes y miercoles en la tarde, de 4:30-5:30 pm EST, hasta la semana de 5/22.
 
-## 📋 ** Flyers / 🇪🇸 Más Información sobre los Eventos** 
+## 📋 **Flyers | 🇪🇸 Más Información sobre los Eventos** 
 ![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
 
 ## 📍 **Location | 🇪🇸 Ubicación de los Eventos**
@@ -50,12 +50,12 @@
 * 🇪🇸 Todos los eventos en el LAYC.
   * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
 
-## ** 🇺🇸 Contact Information / 🇪🇸 Información de Contacto**
+## **Contact Information | 🇪🇸 Información de Contacto**
 * **Website:** [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 * 📧 **E-Mail:** cheili.obregonmolina@layc-dc.org
 * ☎️ **Phone:** (202) 319-2225
 
-# 💭 **About Us**
+# **About Us**
 
 ## 💡 **Mission** 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
@@ -72,7 +72,8 @@ The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide acade
 💠 How does electricity work? How do lights turn on? Unleash your design & engineering skills by learning how to build circuits & dynamic art with LEDs! :electron: 🖥️ 🔋 💡
 ![Microcontrollers](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshop.jpg)
 
-💠 Students learned how to make a flower on a breadboard -- let us know if you think it looks like a flower; got mixed reviews :) ... Thank you!
+💠 Students learned how to make a flower on a breadboard!
+💭 Let us know if you think it looks like a flower. We got mixed reviews 😄
 ![Flower](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshopBreadboardFlower.jpg)
 
 ## 📝 **History** 
