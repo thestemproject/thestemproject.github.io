@@ -1,6 +1,7 @@
-# Table of Contents #
+# **Table of Contents** #
 
 * [Upcoming Workshops](#upcomingworkshops)
+  * [Flyers](#flyers)
 * [About Us](#aboutus)
   * [Mission](#mission)
   * [History](#history)
@@ -12,30 +13,41 @@
 * [Contact Us](#contactus)
 
 
-# Upcoming Workshops #
+# **Upcoming Workshops** #
 
-# About Us #
+## **Flyers** ##
 
-## Mission ##
+# **About Us** #
+
+## **Mission** ##
 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
 
-## History ##
+## **History** ##
 
-## Founders ###
+## **Founders** ###
 
-## Board of Directors ##
+## **Board of Directors** ##
 
-## News ##
+## **News** ##
 
-# Youtube Workshop Series #
+# **Youtube Workshop Series** #
 
-# Partners #
+# **Partners** #
 
-# Contact Us #
-boardofdirectors@thestemproject-dc.org
+# **Contact Us** #
 
-Website: https://www.thestemproject.github.io
+**Email:** boardofdirectors@thestemproject-dc.org
+
+<br>
+
+**Website:** https://www.thestemproject.github.io
+
+<br>
+
+**LinkedIn:**
+
+<br>
 
 (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project Website
 
