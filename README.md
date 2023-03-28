@@ -1,6 +1,6 @@
 # The STEM Project #
 ## :books: :microbe: :seedling: :test_tube: :dna: :microscope: ##
-![](https://github.com/thestemproject/thestemproject.github.io/blob/main/TheSTEMProject.png)
+![The STEAM Teaching, Engagement & Mentorship (STEM) Project](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Logo.png)
 <br>
 # **Table of Contents** #
 ---
