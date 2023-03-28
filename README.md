@@ -27,10 +27,14 @@
 ## 🆕 🤖 LEGO® Battle Bots! 
 * Mon., April 3rd, 2023, 4:00-6:00 pm EST
 * Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams.
+* 🇪🇸 COMING SOON ...
+
 
 ## 🆕 💞 Family Fun Day 
 * Mon., April 24th, 2023, 4:00-6:30 pm EST
 * We invite all students & families to join us ofor free food &  activities for students. Members of the Society of Hispanic Professional Engineers (SHPE) will host bilingual programming for parents to learn how they can support their child to pursue a career in STEM.
+* 🇪🇸 COMING SOON ...
+
 
 ## **Lanuage**
 
@@ -38,19 +42,23 @@
 
 * 🇪🇸 Todos los eventos van a ser presentados en Inglés y Español.
 
+
 ## 🕟 **Dates & Times**
 
 * 🇺🇸 All STEM Project Workshops will be held 4:30-5:30 pm EST on Monday & Wendesdays until the week of 5/22.
 
 * 🇪🇸 Los eventos del STEM Project estan planeados para todos los lunes y miercoles en la tarde, de 4:30-5:30 pm EST, hasta la semana de 5/22.
 
+
 ## 📋 **Flyers | 🇪🇸 Más Información sobre los Eventos** 
 ![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
+
 
 ## 📍 **Location | 🇪🇸 Ubicación de los Eventos**
 * 🇺🇸 All events will take place at the LAYC.
 * 🇪🇸 Todos los eventos en el LAYC.
   * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
+
 
 ## **Contact Information | 🇪🇸 Información de Contacto**
 * **Website:** [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
@@ -63,6 +71,8 @@
 
 ## 💡 **Mission** 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
+* 🇪🇸 COMING SOON ...
+
 
 ## 💟 **Our Impact**
 
@@ -71,13 +81,19 @@ The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide acade
 #### 🔬 **The Marvel of Microscropes**
 💠 Have you always wondered what cells look like? Join us to learn about microscopes,  slide preparation, & the inside of a cell. Bring something you'd want to see under a microscope! 🦠 🧬 🌱
 ![Microscopes](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicroscopeWorkshop.jpg)
+* 🇪🇸 COMING SOON ...
+
 
 ### 🔌 **Circuits, Signals, & More** 
 💠 How does electricity work? How do lights turn on? Unleash your design & engineering skills by learning how to build circuits & dynamic art with LEDs! :electron: 🖥️ 🔋 💡
 ![Microcontrollers](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshop.jpg)
+* 🇪🇸 COMING SOON ...
+
 
 💠 Students learned how to make a flower on a breadboard!
-💭 Let us know if you think it looks like a flower. We got mixed reviews 😄
+* 🇪🇸 ¡Los estudiantes aprendieron cómo construir una flor usando LED, circuitos y microcontroladores!
+💭 Let us know if you think it looks like a flower. We got mixed reviews 😄.
+* 🇪🇸 Háganos saber si cree que el circuito de la foto se parece a una flor. La gente nos ha dado opiniones mixtas 😄.
 ![Flower](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicrocontrollerWorkshopBreadboardFlower.jpg)
 
 <br>
@@ -94,7 +110,10 @@ The difference in life expectancy at birth between Ward 3 (87 years) and Ward 1 
 
 ### **The STEAM Teaching, Engagement & Mentorship (STEM) Project** ###
 
-With the support from the Public Service Grant Commission social innovation fund from the GW Nashman Center for Civic Engagement & Public Service, The STEM Project will collaborate with local SHPE chapters to deliver Noche de Ciencias (NdC) programming activities that will increase Hispanic/Latinx students’ beliefs in their ability to succeed in STEM and their STEM identity[4]. A network of professionals from the SHPE DC Professional chapter will assist in delivering bilingual information sessions for parents, Equipando Padres (EP) about the avenues for their children to pursue degrees in STEM [5]. In addition to introducing students to the support system available through SHPE, the program will include a LEGO Innovation session with a  DEILAB curriculum that teaches students about interdisciplinary collaboration and rapid prototyping. By partnering with independent researchers at the National Institute of Health, The STEM Project will empower students to explore the marvel of microscopes by preparing slides and imaging microorganisms from local National Parks. The STEM Project provides a model that HSIs and service organizations can use to implement similar programs in local communities.
+With the support from the Public Service Grant Commission social innovation fund from the GW Nashman Center for Civic Engagement & Public Service, The STEM Project will collaborate with local SHPE chapters to deliver Noche de Ciencias (NdC) programming activities that will increase Hispanic/Latinx students’ beliefs in their ability to succeed in STEM and their STEM identity [4]. A network of professionals from the SHPE DC Professional chapter will assist in delivering bilingual information sessions for parents, Equipando Padres (EP) about the avenues for their children to pursue degrees in STEM [5]. In addition to introducing students to the support system available through SHPE, the program will include a LEGO Innovation session with a  DEILAB curriculum that teaches students about interdisciplinary collaboration and rapid prototyping. By partnering with independent researchers at the National Institute of Health, The STEM Project will empower students to explore the marvel of microscopes by preparing slides and imaging microorganisms from local National Parks. The STEM Project provides a model that HSIs and service organizations can use to implement similar programs in local communities.
+
+* 🇪🇸 COMING SOON ...
+
 
 ### 📖 **References** ###
 
@@ -109,7 +128,7 @@ With the support from the Public Service Grant Commission social innovation fund
 ## **Founders** ###
 
 ### [Matteo Sanchez-Dahl Gonzalez](https://www.linkedin.com/in/ms-d/)
-![Matteo Sanchez-Dahl Gonzalez](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectFoundersMatteoSanchezDahlGonzalez.png)
+![Matteo Sanchez-Dahl Gonzalez](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Founders/23TheSTEMProjectFoundersMSDGNVC.png)
 
 #### 🎓 B.S. Biomedical Engineering, Expected May 2023, 
 #### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
@@ -124,7 +143,7 @@ With the support from the Public Service Grant Commission social innovation fund
 <br>
 
 ### [Sarah Antonevich](https://www.linkedin.com/in/santonevich/)
-![Sarah Antonevich](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectFoundersSarahAntonevich.png)
+![Sarah Antonevich](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Founders/23TheSTEMProjectFoundersSarahAntonevichNVC.png)
 
 #### 🎓 B.S. Biomedical Engineering, Expected May 2023, 
 #### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
@@ -150,10 +169,14 @@ With the support from the Public Service Grant Commission social innovation fund
 * At the question where it asks: "Reason For Visit/ Razon de la visita", please respond with:
   * **"Volunteer (Non-LAYC employees) / Intern / Voluntario (No empleados de LAYC) / Pasante"**
 * The additional questions on the form will be related to your vaccination status, recent infection status, & current symptoms. 
+* 🇪🇸 COMING SOON ...
+
 
 # **Youtube Workshop Series** #
 
 ## COMING SOON ...
+* 🇪🇸 COMING SOON ...
+
 
 # **Partners** #
 ## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
