@@ -26,9 +26,8 @@
 
 ### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 ![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png?raw=true "LAYC")
-<img src="https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png", alt="23TheSTEMProjectPartnersLAYCLogo.png">
-# **About Us**
 
+# **About Us**
 
 ## 💡 **Mission** 
 The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
@@ -52,17 +51,19 @@ With the support from the Public Service Grant Commission social innovation fund
 #### 1. [2022-2025 Society of Hispanic Professional Engineers (SHPE) Strategic Plan](https://shpe.org/wp-content/uploads/2022/07/2022-25-Strategic-Plan_Final_Web.pdf)
 #### 2. [2021 Washington, DC School Report Card](https://osse.dc.gov/dcschoolreportcard)
 #### 3. [2018 Health Equity Report for the District of Columbia 2018 -- DC Department of Health](https://dchealth.dc.gov/publication/health-equity-report-district-columbia-2018)
+#### 4.
+#### 5.
 
 ## **Founders** ###
 
-### Matteo Sanchez-Dahl Gonzalez
-![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Gonzalez_SanchezDahl_Matteo.jpeg)
+### [Matteo Sanchez-Dahl Gonzalez]
+![Matteo Sanchez-Dahl Gonzalez](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Gonzalez_SanchezDahl_Matteo.jpeg)
 
 #### B.S. Biomedical Engineering, Expected May 2023, 
 #### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
-#### NMR-based Metabolomics Researcher, Cheng Lab, 
-#### Department of Molecular Pathology, Massachusetts General Hospital,
-#### Undergraduate Representative, National Board of Directors
+#### NMR-based Metabolomics Researcher, [Cheng Lab](https://twitter.com/chenglabnmr), 
+#### Department of Molecular Pathology, [Massachusetts General Hospital](https://www.martinos.org/),
+#### Undergraduate Representative, [National Board of Directors](https://shpe.org/about-shpe/governance/nbod/)
 #### [Society of Hispanic Professional Engineers](https://shpe.org/)
 <br>
 #### Biography 
@@ -76,37 +77,21 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 
 <br>
 
-### Sarah Antonevich
-![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Founders_Antonevich_Sarah.png)
+### [Sarah Antonevich]
+![]()
 
 #### B.S. Biomedical Engineering, Expected May 2023, 
 #### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
 
 
-#### [CARDIAC OPTOGENETICS & OPTICAL IMAGING RESEARCH](https://entcheva.seas.gwu.edu), ENTCHEVA LAB
+#### Cardiac Optogenetics & Optical Imaging Reasearcher, [Entcheva Lab](https://entcheva.seas.gwu.edu)
 #### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
 
 #### Biography 
 
 ## **Board of Directors** ##
 
-### Annette Jimenez
 
-#### B.S. Biomedical Engineering, Expected May 2024, 
-#### Department of Biomedical Engineering, [The George Washington University](https://www.gwu.edu/)
-
-#### President, [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
-
-#### Biography 
-
-### Roger Castaneda
-
-#### B.S. Mechanical Engineering, Expected May 2024, 
-#### Department of Mechanical & Aerospace Engineering, [The George Washington University](https://www.gwu.edu/)
-
-#### Vice President, [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
-
-#### Biography 
 
 ## :bar_chart: **News** ##
 
