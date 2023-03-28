@@ -25,12 +25,10 @@
 ## 🆕 🤖 LEGO® Battle Bots! 
 * Mon., April 3rd, 2023, 4:00-6:00 pm EST
 * Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams.
-* 🇪🇸 COMING SOON ...
 
 ## 🆕 💞 Family Fun Day 
 * Mon., April 24th, 2023, 4:00-6:30 pm EST
 * We invite all students & families to join us ofor free food &  activities for students. Members of the Society of Hispanic Professional Engineers (SHPE) will host bilingual programming for parents to learn how they can support their child to pursue a career in STEM.
-* 🇪🇸 COMING SOON ...
 
 ## **Lanuage**
 
@@ -47,13 +45,13 @@
 ## 📋 ** Flyers / 🇪🇸 Más Información sobre los Eventos** 
 ![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
 
-## 📍 ** Location / 🇪🇸 Ubicación de los Eventos **
+## 📍 **Location | 🇪🇸 Ubicación de los Eventos**
 * 🇺🇸 All events will take place at the LAYC.
 * 🇪🇸 Todos los eventos en el LAYC.
   * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
 
 ## ** 🇺🇸 Contact Information / 🇪🇸 Información de Contacto**
-* **Website:**[Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
+* **Website:** [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 * 📧 **E-Mail:** cheili.obregonmolina@layc-dc.org
 * ☎️ **Phone:** (202) 319-2225
 
@@ -112,16 +110,7 @@ With the support from the Public Service Grant Commission social innovation fund
 #### 📢 [Society of Hispanic Professional Engineers](https://shpe.org/)
 #### 📫 matteosanchez@gwmail.gwu.edu
 
-#### Biography 
-I, Matteo Sanchez-Dahl Gonzalez, am first-generation Mexican-American. I will change the narrative about people from minority backgrounds succeeding in science by exemplifying excellence in every endeavor and empowering the Hispanic community. I plan to complete a 5-year MS/BS program in Biomedical Engineering before applying to Medical Scientist Training Programs to pursue an MD-Ph.D. 
- 
-As a physician-scientist, I will serve patient needs from all walks of life and provide professional development opportunities to students from underrepresented populations. I want to combine my interest in scientific research with my passion for social justice by utilizing epidemiology and metabolomics to shed light on the adverse effects of systematic disparity on human health. I believe employing empathy to connect with new perspectives is part of the essence of scientific exploration. To become a holistic scientist, I will contribute my leadership abilities to create a culture that champions diverse ideas and perspectives. 
- 
-As an undergraduate student, I’ve become increasingly involved in the Society of Hispanic Professional Engineers (SHPE), both at my local chapter and in my region. As a leader of my chapter, I helped revive the spirit of SHPE on campus after a period of dormancy through recruitment efforts and by cultivating partnerships with other student organizations. As a Sub-Regional Student Representative, I’ve solidified the sense of “familia” in New England by connecting with chapter leaders through the events I’ve hosted and led social media campaigns for scholarship and professional development opportunities.
- 
-This semester, as the Co-President of my SHPE chapter and the Community Outreach Director of The Engineers’ Council, I’ve led an initiative to cultivate a tutoring partnership with the Latin American Youth Center for elementary school students in Columbia Heights, Washington, DC. As a member of the inaugural cohort of the Engineering for Social Innovation course, my group service-learning project has focused on teaching a weekly STEAM course to bridge the gap between STEM and Art. My colleagues and I collected data from stakeholder interviews and designed lesson plans centered around utilizing “the cycle of invention” to teach students about how they can catalyze social change in their communities.
-
-* 🇪🇸 COMING SOON ...
+#### [Biography](https://drive.google.com/file/d/16kuHadD6kWe-OW3ql3I3X1THuNTRUV93/view?usp=sharing)
 
 <br>
 
@@ -138,25 +127,7 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
 
 ## **Board of Directors** ##
 
-###
-
-####
-####
-####
-
-###
-
-####
-####
-####
-
-* 🇪🇸 COMING SOON ...
-
 ## 📊 **News** ##
-
-### 
-
-* 🇪🇸 COMING SOON ...
 
 # **How to Get Involved** #
 
@@ -171,11 +142,9 @@ This semester, as the Co-President of my SHPE chapter and the Community Outreach
  * **"Volunteer (Non-LAYC employees) / Intern / Voluntario (No empleados de LAYC) / Pasante"**
 * The additional questions on the form will be related to your vaccination status, recent infection status, & current symptoms. 
 
-* 🇪🇸 COMING SOON ...
-
 # **Youtube Workshop Series** #
 
-### COMING SOON ...
+## COMING SOON ...
 
 # **Partners** #
 ## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
