@@ -19,6 +19,11 @@
 
 ## :clipboard: **Flyers** 
 
+## :: **Location**
+
+### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png)
+
 # **About Us**
 
 
@@ -51,10 +56,31 @@ With the support from the Public Service Grant Commission social innovation fund
 # **Youtube Workshop Series** #
 
 # **Partners** #
+## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png)
 
-## George Washington University (GWU) 
-[George Washington University (GWU)](https://www.gwu.edu/)
+## [George Washington University (GWU)](https://www.gwu.edu/)
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU.png)
+
+## [Honey W. Nashman Center for Civic Engagement and Public Service](https://serve.gwu.edu/)
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU_NashmanCenter_Logo.png)
+
+## [Public Service Grant Commission]([https://serve.gwu.edu/](https://serve.gwu.edu/public-service-grant-commission)
+
+## [Design, Engineering, Innovation (DEI)LAB](https://www.deilab.com/)
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_DEILAB_Logo.png)
+
+## [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_SHPE_GWU_StudentChapter_Logo.jpg)
+
+## [SHPE Washington, DC Professional Chapter](https://www.shpe-dc.org/index.html)
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_SHPE_DC_ProfessionalChapter_Logo.jpg)
+
+## [GW Engineering Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/)
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU_BME.png)
+
+## [GW Engineering](https://www.seas.gwu.edu/)
+![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_GWU_Engineering.png)
 
 # **Contact Us** #
 
