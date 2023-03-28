@@ -61,7 +61,7 @@
 
 
 ## **Contact Information | 🇪🇸 Información de Contacto**
-* **Website:** [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
+* 🖥️ **Website:** [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 * 📧 **E-Mail:** cheili.obregonmolina@layc-dc.org
 * ☎️ **Phone:** (202) 319-2225
 
@@ -114,6 +114,7 @@ With the support from the Public Service Grant Commission social innovation fund
 
 * 🇪🇸 COMING SOON ...
 
+<br>
 
 ### 📖 **References** ###
 
@@ -153,9 +154,15 @@ With the support from the Public Service Grant Commission social innovation fund
 
 #### Biography 
 
+<br>
+
 ## **Board of Directors** ##
 
+<br>
+
 ## 📊 **News** ##
+
+<br>
 
 # **How to Get Involved** #
 
@@ -171,16 +178,16 @@ With the support from the Public Service Grant Commission social innovation fund
 * The additional questions on the form will be related to your vaccination status, recent infection status, & current symptoms. 
 * 🇪🇸 COMING SOON ...
 
+<br>
 
 # **Youtube Workshop Series** #
 
 ## COMING SOON ...
 * 🇪🇸 COMING SOON ...
 
+<br>
 
 # **Partners** #
-## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
-![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png)
 
 ## [George Washington University (GWU)](https://www.gwu.edu/)
 ![George Washington University (GWU)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWU.png)
@@ -197,7 +204,7 @@ With the support from the Public Service Grant Commission social innovation fund
 ![Society of Hispanic Professional Engineers -- Noche de Ciencias Program](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPENochedeCienciasTMRGB.png)
 
 ## [Society of Hispanic Professional Engineers -- Equipando Padres Program](https://shpe.org/engage/programs/equipando-padres/)
-![Society of Hispanic Professional Engineers -- Equipando Padres Program](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPENochedeCienciasTMRGB.png)
+![Society of Hispanic Professional Engineers -- Equipando Padres Program](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEP4C.png)
 
 ## [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
 ![SHPE GWU Student Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEGWUNavy.png)
@@ -215,6 +222,11 @@ With the support from the Public Service Grant Commission social innovation fund
 
 ## [GW Engineering](https://www.seas.gwu.edu/)
 ![GW Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEngineering.png)
+
+## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
+![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png)
+
+<br>
 
 # **Contact Us** #
 
