@@ -1,4 +1,5 @@
-# The STEM Project 📚 🔋 🖥️ 🌱 💡 🔬
+# The STEM Project 
+# 📚 🔋 🖥️ 🌱 💡 🔬
 ![The STEAM Teaching, Engagement & Mentorship (STEM) Project](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_TheSTEMProject_Logo.png)
 
 # **Table of Contents** 
@@ -21,11 +22,11 @@
 
 <img >
 
-## :round_pushpin: **Location**
+## 📍 **Location**
 
 ### [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 ![](https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png)
-<img src="23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png", alt="23_TheSTEMProject_Partners_LAYC_Logo.png">
+<img src="https://github.com/thestemproject/thestemproject.github.io/blob/main/23_PartnerLogos/23_TheSTEMProject_Partners_LAYC_Logo.png", alt="23_TheSTEMProject_Partners_LAYC_Logo.png">
 
 # **About Us**
 
@@ -62,7 +63,7 @@ With the support from the Public Service Grant Commission social innovation fund
 #### [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
 <br>
 #### NMR-based Metabolomics Researcher, Cheng Lab, 
-#### Department of Molecular Pathology, Massachusetts General Hospital;
+#### Department of Molecular Pathology, Massachusetts General Hospital
 <br>
 #### Undergraduate Representative, National Board of Directors
 #### [Society of Hispanic Professional Engineers](https://shpe.org/)
