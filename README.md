@@ -51,7 +51,7 @@ With the support from the Public Service Grant Commission social innovation fund
 
 #### 1. [2022-2025 Society of Hispanic Professional Engineers (SHPE) Strategic Plan](https://shpe.org/wp-content/uploads/2022/07/2022-25-Strategic-Plan_Final_Web.pdf)
 #### 2. [2021 Washington, DC School Report Card](https://osse.dc.gov/dcschoolreportcard)
-#### 3. [DC Department of Health -- Health Equity Report for the District of Columbia 2018](https://dchealth.dc.gov/publication/health-equity-reghfghu.g kjport-district-columbia-2018)
+#### 3. [DC Department of Health -- Health Equity Report for the District of Columbia 2018](https://dchealth.dc.gov/publication/health-equity-report-district-columbia-2018)
 
 ## **Founders** ###
 
