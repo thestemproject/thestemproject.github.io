@@ -101,14 +101,16 @@
 * The STEAM Teaching, Engagement & Mentorship (STEM) Project aims to provide academic support and hands-on learning activities for a targeted demographic of K-12 students from historically underrepresented communities in STEM in Washington, DC.
   * 🇪🇸 **COMING SOON ...**
 
+<br>
+
 ## 💟 **Our Impact**
 
 ### **Previous Workshops**
 
 #### 🔬 **The Marvel of Microscropes**
 * 💠 Have you always wondered what cells look like? Join us to learn about microscopes,  slide preparation, & the inside of a cell. Bring something you'd want to see under a microscope! 🦠 🧬 🌱
-* ![Microscopes](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicroscopeWorkshop.jpg)
   * 🇪🇸 **COMING SOON ...**
+* ![Microscopes](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Impacts/23TheSTEMProjectMicroscopeWorkshop.jpg)
 
 <br>
 
@@ -186,31 +188,6 @@ With the support from the Public Service Grant Commission social innovation fund
 <br>
 
 ## **Board of Directors** ##
-
-### [Sarah Antonevich](https://www.linkedin.com/in/santonevich/)
-![Sarah Antonevich](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Founders/23TheSTEMProjectFoundersSarahAntonevichNVC.png)
-
-#### 🎓 B.S. Biomedical Engineering, Expected May 2023, 
-#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
-#### 🔬 Cardiac Optogenetics & Optical Imaging Reasearcher, [Entcheva Lab](https://entcheva.seas.gwu.edu)
-#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
-#### 📫 santonevich@gwmail.gwu.edu
-
-#### Biography 
-
-<br>
-
-### [Ekundayo Shittu, PhD](https://www.linkedin.com/in/ekundayo-shittu-b6844512/)
-![Ekundayo Shittu]()
-
-#### 🎓 Associate Professor
-#### 🔬 [The System Modeling Laboratory for Economic Decision (SysMoLED, pronounced /sismōl-d/)](https://www2.seas.gwu.edu/~eshittu/)
-#### 🏫 [Department of Engineering Management & Systems Engineering](https://www.emse.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
-#### 📫 eshittu@gwu.edu
-
-Professor Ekundayo Shittu conducts basic and applied research that take a systems engineering approach to aid decision making under uncertainty on investments into energy technology portfolios and the economics of climate change response policies.
-
-#### [Biography](https://www.emse.seas.gwu.edu/ekundayo-shittu) 
 
 <br>
 
