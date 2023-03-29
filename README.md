@@ -22,7 +22,7 @@
 
 <br>
 
-# ** 🇪🇸 Tabla de contenido** 
+# **🇪🇸 Tabla de contenido** 
 * [Contáctenos](#contactus)
 * [Próximas sesiones](#upcomingworkshops)
   * [Folletos](#flyers)
@@ -48,6 +48,8 @@
 * 📲 **LinkedIn:** **COMING SOON ...**
 * (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project
 
+<br>
+
 # 📅 **Upcoming Workshops | 🇪🇸 Próximas sesiones** 
 
 ## 🤖 LEGO® Battle Bots! | 🇪🇸 Robots de combate LEGO®
@@ -55,27 +57,36 @@
 * Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams.
   * 🇪🇸 **COMING SOON ...**
 
-
 ## 💞 Family Fun Day | 🇪🇸 Celebración de primavera en familia y diversión
 * **Mon., April 24th, 2023, 4:00-6:30 pm EST**
 * We invite all students & families to join us ofor free food &  activities for students. Members of the Society of Hispanic Professional Engineers (SHPE) will host bilingual programming for parents to learn how they can support their child to pursue a career in STEM.
   * 🇪🇸 **COMING SOON ...**
 
+<br>
+
 ## **Lanuage | 🇪🇸 Idioma**
 * 🇺🇸 All events will be facilitated bilingually (Spanish/English).
 * 🇪🇸 Todos los eventos van a ser presentados en Inglés y Español.
+
+<br>
 
 ## 🕟 **Dates & Times | 🇪🇸 Horario**
 * 🇺🇸 All STEM Project Workshops will be held 4:30-5:30 pm EST on Monday & Wendesdays until the week of 5/22.
 * 🇪🇸 Los eventos del STEM Project estan planeados para todos los lunes y miercoles en la tarde, de 4:30-5:30 pm EST, hasta la semana de 5/22.
 
+<br>
+
 ## 📋 **Flyers | 🇪🇸 Más Información sobre los Eventos** 
 ![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
+
+<br>
 
 ## 📍 **Location | 🇪🇸 Ubicación de los Eventos**
 * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
 * All events will take place at the LAYC.
   * 🇪🇸 Todos los eventos en el LAYC.
+
+<br>
 
 ## **Contact Information | 🇪🇸 Información de Contacto**
 * 🖥️ **Website:** [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
@@ -236,14 +247,14 @@ With the support from the Public Service Grant Commission social innovation fund
 ## [George Washington University (GWU)](https://www.gwu.edu/)
 ![George Washington University (GWU)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWU.png)
 
+## [GW Engineering](https://www.seas.gwu.edu/)
+![GW Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEngineering.png)
+
 ## [GWU Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/)
 ![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUBME.png)
 
 ## [GWU Department of Engineering Management & Systems Engineering](https://www.emse.seas.gwu.edu/)
 ![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEMSE.png)
-
-## [GW Engineering](https://www.seas.gwu.edu/)
-![GW Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEngineering.png)
 
 ## [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
 ![SHPE GWU Student Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEGWUNavy.png)
