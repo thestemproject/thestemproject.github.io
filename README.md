@@ -2,9 +2,13 @@
 # 📚 🔋 🖥️ 🌱 💡 🔬
 ![The STEAM Teaching, Engagement & Mentorship (STEM) Project](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectLogo1.png)
 
-# **Table of Contents** 
-* [Contact Us](#contactus)
-* [Upcoming Workshops](#upcomingworkshops)
+# **Table of Contents | Tabla de Contenido** 
+* [Contact Us | Contáctenos](#contactus)
+* [Upcoming Workshops | Próximas Sesiones](#upcomingworkshops)
+  * [LEGO® Battle Bots! | ¡Robots de combate LEGO®!](legobattlebots)
+  * [Lanuage | Idioma](#language)
+  * [Dates & Times | Horario](#date)
+  
   * [Flyers](#flyers)
 * [About Us](#aboutus)
   * [Mission](#mission)
@@ -22,8 +26,6 @@
 
 <br>
 
-# **🇪🇸 Tabla de contenido** 
-* [Contáctenos](#contactus)
 * [Próximas sesiones](#upcomingworkshops)
   * [Folletos](#flyers)
 * [Sobre nosotros](#aboutus)
@@ -42,7 +44,7 @@
 
 <br>
 
-# **Contact Us | 🇪🇸 Contáctenos para más información** #
+# **Contact Us | Contáctenos** #
 * 📧 **Email** boardofdirectors@thestemproject-dc.org
 * 🖥️ **Website** https://www.thestemproject.github.io
 * 📲 **LinkedIn:** **COMING SOON ...**
@@ -50,11 +52,13 @@
 
 <br>
 
-# 📅 **Upcoming Workshops | 🇪🇸 Próximas sesiones** 
+# **Upcoming Workshops | Próximas Sesiones** 
 
-## 🤖 LEGO® Battle Bots! | 🇪🇸 ¡Robots de combate LEGO®!
+📅
+
+## LEGO® Battle Bots! | ¡Robots de combate LEGO®!
 * **Mon., April 3rd, 2023, 4:00-6:00 pm EST**
-* Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams.
+* Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams. 🤖 
   * 🇪🇸 **COMING SOON ...**
 
 ## 💞 Family Fun Day | 🇪🇸 Celebración de primavera en familia y diversión
@@ -64,20 +68,15 @@
 
 <br>
 
-## **Lanuage | 🇪🇸 Idioma**
+## **Lanuage | Idioma**
 * 🇺🇸 All events will be facilitated bilingually (Spanish/English).
 * 🇪🇸 Todos los eventos van a ser presentados en Inglés y Español.
 
 <br>
 
-## 🕟 **Dates & Times | 🇪🇸 Horario**
+## 🕟 **Dates & Times | Horario**
 * 🇺🇸 All STEM Project Workshops will be held 4:30-5:30 pm EST on Monday & Wendesdays until the week of 5/22.
 * 🇪🇸 Los eventos del STEM Project estan planeados para todos los lunes y miercoles en la tarde, de 4:30-5:30 pm EST, hasta la semana de 5/22.
-
-<br>
-
-## 📋 **Flyers | 🇪🇸 Más Información sobre los Eventos** 
-![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
 
 <br>
 
@@ -85,13 +84,18 @@
 * [1419 Columbia Road, NW Washington, DC 20009](https://www.google.com/maps/dir/Science+and+Engineering+Hall,+Science+and+Engineering+Hall,+22nd+Street+Northwest,+Washington,+DC/Latin+American+Youth+Center/@38.9140837,-77.0540848,14.33z/data=!4m13!4m12!1m5!1m1!1s0x89b7b7b19f9e7e2d:0x5ca8cb5f99e6dc3b!2m2!1d-77.0494205!2d38.9000467!1m5!1m1!1s0x89b7c81ff3f5ff2b:0xe16b44949765cd9e!2m2!1d-77.0333413!2d38.9276223)
 * All events will take place at the LAYC.
   * 🇪🇸 Todos los eventos en el LAYC.
-
+  
 <br>
 
-## **Contact Information | 🇪🇸 Información de Contacto**
+## **Contact Information | Información de Contacto**
 * 🖥️ **Website:** [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 * 📧 **E-Mail:** cheili.obregonmolina@layc-dc.org
 * ☎️ **Phone:** (202) 319-2225
+
+<br>
+
+## 📋 **Flyers | 🇪🇸 Más Información sobre los Eventos** 
+![Workshops Flyer](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectWorkshopFlyer.png)
 
 <br>
 
