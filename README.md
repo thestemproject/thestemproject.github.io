@@ -52,7 +52,7 @@
 
 # 📅 **Upcoming Workshops | 🇪🇸 Próximas sesiones** 
 
-## 🤖 LEGO® Battle Bots! | 🇪🇸 Robots de combate LEGO®
+## 🤖 LEGO® Battle Bots! | 🇪🇸 ¡Robots de combate LEGO®!
 * **Mon., April 3rd, 2023, 4:00-6:00 pm EST**
 * Unlock your problem-solving & collaboration skills by using LEGO®s to design a Battle Bot. Teams will compete head-to-head in an arena to decide the champion & the prize-winning teams.
   * 🇪🇸 **COMING SOON ...**
@@ -159,6 +159,19 @@ With the support from the Public Service Grant Commission social innovation fund
 
 ## **Founders** ###
 
+### [Sarah Antonevich](https://www.linkedin.com/in/santonevich/)
+![Sarah Antonevich](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Founders/23TheSTEMProjectFoundersSarahAntonevichNVC.png)
+
+#### 🎓 B.S. Biomedical Engineering, Expected May 2023, 
+#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
+#### 🔬 Cardiac Optogenetics & Optical Imaging Reasearcher, [Entcheva Lab](https://entcheva.seas.gwu.edu)
+#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
+#### 📫 santonevich@gwmail.gwu.edu
+
+#### Biography 
+
+<br>
+
 ### [Matteo Sanchez-Dahl Gonzalez](https://www.linkedin.com/in/ms-d/)
 ![Matteo Sanchez-Dahl Gonzalez](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Founders/23TheSTEMProjectFoundersMSDGNVC.png)
 
@@ -174,20 +187,49 @@ With the support from the Public Service Grant Commission social innovation fund
 
 <br>
 
-### [Sarah Antonevich](https://www.linkedin.com/in/santonevich/)
-![Sarah Antonevich](https://github.com/thestemproject/thestemproject.github.io/blob/main/23Founders/23TheSTEMProjectFoundersSarahAntonevichNVC.png)
+## **Board of Directors** ##
 
-#### 🎓 B.S. Biomedical Engineering, Expected May 2023, 
-#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
-#### 🔬 Cardiac Optogenetics & Optical Imaging Reasearcher, [Entcheva Lab](https://entcheva.seas.gwu.edu)
-#### 🏫 [Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/)
-#### 📫 santonevich@gwmail.gwu.edu
+### [Erica Cusi Wortham, PhD](https://www.linkedin.com/in/erica-cusi-wortham-33463825/)
+![Erica Cusi Wortham, PhD](https://github.com/thestemproject/thestemproject.github.io/blob/main/23BOD/23TheSTEMProjectBODECWortham.jpg)
 
-#### Biography 
+#### 💠 Chair, The STEM Project Board of Directors;
+#### 🎓 Director, [Innovation Center](https://www.seas.gwu.edu/gw-innovation-center),
+#### 🏫 [GW Engineering](https://www.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
+
+#### 🔬 NMR-based Metabolomics Researcher, [Cheng Lab](https://twitter.com/chenglabnmr), 
+#### 🏫 Department of Molecular Pathology, [Massachusetts General Hospital](https://www.martinos.org/);
+#### 🎓 Undergraduate Representative, [National Board of Directors](https://shpe.org/about-shpe/governance/nbod/)
+#### 📢 [Society of Hispanic Professional Engineers](https://shpe.org/)
+#### 📫 boardofdirectors@thestemproject-dc.org
+
+Areas of Expertise
+* Media and culture, indigenous media, visual heritage, archiving, nationalism/ethnicity, Mexico.
+* Dr. Wortham is a cultural anthropologist and videographer with special interests in indigenous media.
+
+Current Research 
+* Formation of ILADMA, the Indigenous Latin American Digital Media Archive, to preserve, archive, and access visual media created by indigenous peoples of the Americas.
+
+#### [Biography](https://elliott.gwu.edu/erica-wortham)
 
 <br>
 
-## **Board of Directors** ##
+### [Ekundayo Shittu, PhD](https://www.linkedin.com/in/ekundayo-shittu-b6844512/)
+![Ekundayo Shittu, PhD](https://github.com/thestemproject/thestemproject.github.io/blob/main/23BOD/23TheSTEMProjectBODEShittu.jpg)
+
+#### 💠 Vice Chair, The STEM Project Board of Directors;
+#### 🎓 Associate Professor;
+#### 🔬 Principal Investigator, The System Modeling Laboratory for Economic Decision (SysMoLED, pronounced /sismōl-d/), [SysMoLED](https://www2.seas.gwu.edu/~eshittu/), 
+#### 🏫 [Department of Engineering Management & Systems Engineering](https://www.emse.seas.gwu.edu/), [The George Washington University](https://www.gwu.edu/);
+#### 📫 boardofdirectors@thestemproject-dc.org
+#### 📫 eshittu@gwu.edu
+
+Areas of Expertise
+* Professor Ekundayo Shittu conducts basic and applied research that take a systems engineering approach to aid decision making under uncertainty on investments into energy technology portfolios and the economics of climate change response policies.
+
+Current Research 
+* Systems engineering and engineering management with emphasis on thematic areas including modeling of systems interdependence, mathematical programming and optimization, technology management, the economics of environmental change and technology policy.
+
+#### [Biography](https://www.emse.seas.gwu.edu/ekundayo-shittu)
 
 <br>
 
