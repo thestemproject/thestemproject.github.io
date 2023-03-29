@@ -3,7 +3,7 @@
 ![The STEAM Teaching, Engagement & Mentorship (STEM) Project](https://github.com/thestemproject/thestemproject.github.io/blob/main/23TheSTEMProjectLogo1.png)
 
 # **Table of Contents | Tabla de Contenido** 
-* [Contact Us | Contáctenos](#contactus)
+* [Contact Us / Contáctenos](#contact-us-/-contáctenos)
 * [Upcoming Workshops | Próximas Sesiones](#upcomingworkshops)
   * [LEGO® Battle Bots! | ¡Robots de combate LEGO®!](legobattlebots)
   * [Lanuage | Idioma](#language)
