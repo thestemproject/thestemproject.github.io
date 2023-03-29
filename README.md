@@ -22,13 +22,33 @@
 
 <br>
 
+# ** 🇪🇸 Tabla de contenido** 
+* [Contáctenos](#contactus)
+* [Próximas sesiones](#upcomingworkshops)
+  * [Folletos](#flyers)
+* [Sobre nosotros](#aboutus)
+  * [Misión](#mission)
+  * [Nuestro Impacto](#impact)
+  * [Historia](#history)
+  * [Fundador@s](#founders)
+  * [Junta Directiva](#boardofdirectors)
+  * [Noticias](#news)
+* [Cómo Participar](#getinvolved)
+  * [Formulario de registro de voluntarios](#volunteerregistrationform)
+  * [Protocolos COVD-19](#covd-19protocols)
+* [Serie de sesiones de Youtube](#youtubeworkshopseries)
+* [Socios](#partners)
+* [Información de Contact](#contactinfo)
+
+<br>
+
 # **Contact Us | 🇪🇸 Contáctenos para más información** #
 * 📧 **Email** boardofdirectors@thestemproject-dc.org
 * 🖥️ **Website** https://www.thestemproject.github.io
 * 📲 **LinkedIn:** **COMING SOON ...**
 * (c) 2023 The STEAM Teaching, Engagement, & Mentorship (STEM) Project
 
-# 📅 **Upcoming Workshops** 
+# 📅 **Upcoming Workshops | 🇪🇸 Próximas sesiones** 
 
 ## 🤖 LEGO® Battle Bots! | 🇪🇸 Robots de combate LEGO®
 * **Mon., April 3rd, 2023, 4:00-6:00 pm EST**
@@ -206,30 +226,15 @@ With the support from the Public Service Grant Commission social innovation fund
 
 # **Partners** #
 
+## [Public Service Grant Commission](https://serve.gwu.edu/public-service-grant-commission)
+
+## [GWU Innovation Center](https://www.seas.gwu.edu/gw-innovation-center)
+
 ## [Honey W. Nashman Center for Civic Engagement and Public Service](https://serve.gwu.edu/)
 ![Honey W. Nashman Center for Civic Engagement and Public Service](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUNashmanCenterLogo.png)
 
 ## [George Washington University (GWU)](https://www.gwu.edu/)
 ![George Washington University (GWU)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWU.png)
-
-## [Public Service Grant Commission](https://serve.gwu.edu/public-service-grant-commission)
-
-## [Design, Engineering, Innovation (DEI)LAB](https://www.deilab.com/)
-![Design, Engineering, Innovation (DEI)LAB](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersDEILABLogo.png)
-
-## [Society of Hispanic Professional Engineers -- Noche de Ciencias Program](https://shpe.org/engage/programs/noche-de-ciencias/)
-![Society of Hispanic Professional Engineers -- Noche de Ciencias Program](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPENochedeCienciasTMRGB.png)
-
-## [Society of Hispanic Professional Engineers -- Equipando Padres Program](https://shpe.org/engage/programs/equipando-padres/)
-![Society of Hispanic Professional Engineers -- Equipando Padres Program](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEP4C.png)
-
-## [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
-![SHPE GWU Student Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEGWUNavy.png)
-
-## [SHPE Washington, DC Professional Chapter](https://www.shpe-dc.org/index.html)
-![SHPE Washington, DC Professional Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEDCNavy.png)
-
-## [GWU Innovation Center](https://www.seas.gwu.edu/gw-innovation-center)
 
 ## [GWU Department of Biomedical Engineering](https://www.bme.seas.gwu.edu/)
 ![GWU Department of Biomedical Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUBME.png)
@@ -239,6 +244,21 @@ With the support from the Public Service Grant Commission social innovation fund
 
 ## [GW Engineering](https://www.seas.gwu.edu/)
 ![GW Engineering](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersGWUEngineering.png)
+
+## [SHPE GWU Student Chapter](https://www.instagram.com/shpe_gwu/?igshid=YmMyMTA2M2Y%3D)
+![SHPE GWU Student Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEGWUNavy.png)
+
+## [SHPE Washington, DC Professional Chapter](https://www.shpe-dc.org/index.html)
+![SHPE Washington, DC Professional Chapter](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEDCNavy.png)
+
+## [Design, Engineering, Innovation (DEI)LAB](https://www.deilab.com/)
+![Design, Engineering, Innovation (DEI)LAB](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersDEILABLogo.png)
+
+## [Society of Hispanic Professional Engineers -- Equipando Padres Program](https://shpe.org/engage/programs/equipando-padres/)
+![Society of Hispanic Professional Engineers -- Equipando Padres Program](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPEP4C.png)
+
+## [Society of Hispanic Professional Engineers -- Noche de Ciencias Program](https://shpe.org/engage/programs/noche-de-ciencias/)
+![Society of Hispanic Professional Engineers -- Noche de Ciencias Program](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersSHPENochedeCienciasTMRGB.png)
 
 ## [Latin American Youth Center (LAYC)](https://www.layc-dc.org/)
 ![Latin American Youth Center (LAYC)](https://github.com/thestemproject/thestemproject.github.io/blob/main/23PartnerLogos/23TheSTEMProjectPartnersLAYCLogo.png)
